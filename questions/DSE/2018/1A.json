@@ -1,0 +1,165 @@
+{
+  "source": "DSE",
+  "year": 2018,
+  "paper": "1A",
+  "subject": "Chemistry",
+  "total_questions": 4,
+  "questions": [
+    {
+      "id": "5ffe175c-8fac-4760-8479-ebb1488ff283",
+      "number": 1,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following processes is most suitable for extracting sodium chloride from sea water?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "electrolysis",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "crystallisation",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "simple distillation",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "fractional distillation",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2018chempaper1\\page_0002"
+    },
+    {
+      "id": "80d63ae9-1307-431a-8f50-d99649d60a98",
+      "number": 2,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "Neon exists as a gas at room temperature and pressure because",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "neon is chemically inert.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "neon molecules are monoatomic.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "the attractive force between neon atoms is weak.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "the outermost electron shell of a neon atom has an octet structure.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2018chempaper1\\page_0002"
+    },
+    {
+      "id": "1598df6d-82a4-434e-a2fb-0265caf8166d",
+      "number": 3,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "A certain mass of a sample of  \\( Ag_{2}O(s) \\)  is strongly heated in a test tube. Which of the following shows the relationship of the mass of the contents (m) in the test tube with time (t) from the start of heating?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": null,
+          "image": "0.jpg"
+        },
+        {
+          "label": "B",
+          "text": null,
+          "image": "1.jpg"
+        },
+        {
+          "label": "C",
+          "text": null,
+          "image": "2.jpg"
+        },
+        {
+          "label": "D",
+          "text": null,
+          "image": "3.jpg"
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2018chempaper1\\page_0002"
+    },
+    {
+      "id": "41c70155-876d-49ac-9517-287035c28623",
+      "number": 4,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "If 8.0 g of sulphur dioxide gas contains n molecules, how many molecules does 2.0 g of oxygen gas contain?\n\n(Relative atomic masses : O = 16.0, S = 32.0)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "2.0 n",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "4.0 n",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "0.25 n",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "0.50 n",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2018chempaper1\\page_0002"
+    }
+  ]
+}

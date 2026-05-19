@@ -864,9 +864,14 @@
           "label": "C",
           "text": "(1) and (3) only",
           "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
         }
       ],
-      "answer": null,
+      "answer": "D",
       "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0006"
     },
     {
@@ -900,26 +905,6 @@
         {
           "label": "D",
           "text": "（2）and（3）only",
-          "image": null
-        },
-        {
-          "label": "A",
-          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
-          "image": null
-        },
-        {
-          "label": "B",
-          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
-          "image": null
-        },
-        {
-          "label": "C",
-          "text": "The 1st statement is false but the 2nd statement is true.",
-          "image": null
-        },
-        {
-          "label": "D",
-          "text": "Both statements are false.",
           "image": null
         }
       ],
@@ -1402,26 +1387,6 @@
         {
           "label": "D",
           "text": "(1), (2) and (3)",
-          "image": null
-        },
-        {
-          "label": "A",
-          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
-          "image": null
-        },
-        {
-          "label": "B",
-          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
-          "image": null
-        },
-        {
-          "label": "C",
-          "text": "The 1st statement is false but the 2nd statement is true.",
-          "image": null
-        },
-        {
-          "label": "D",
-          "text": "Both statements are false.",
           "image": null
         }
       ],

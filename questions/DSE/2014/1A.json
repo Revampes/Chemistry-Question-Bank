@@ -1,0 +1,1447 @@
+{
+  "source": "DSE",
+  "year": 2014,
+  "paper": "1A",
+  "subject": "Chemistry",
+  "total_questions": 36,
+  "questions": [
+    {
+      "id": "62299292-62d1-4009-bceb-288806501d05",
+      "number": 1,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following atoms has the smallest number of neutrons?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( {}^{63} \\) Cu",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( {}^{59} \\) CO",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( {}^{58} \\) Ni",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( {}^{57} \\) Fe",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0001"
+    },
+    {
+      "id": "e72f1522-c8d4-4494-8a3a-f13ccc1dce9e",
+      "number": 2,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following compounds has a giant ionic structure?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( N_{2}O_{4} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( HNO_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( NCl_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( NH_{4}NO_{3} \\)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0001"
+    },
+    {
+      "id": "97fa3e4f-fa5e-4f37-a551-db9d1597d124",
+      "number": 3,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "The diagram below shows three iron nails of the same size and shape each immersed in a liquid.\n(X) [IMG:0.jpg]\n\n(Y) [IMG:1.jpg]\n\n(Z) [IMG:2.jpg]\n\nWhich of the following arrangements represents the ascending order of rate of corrosion of the iron nails?",
+      "question_images": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Z < Y < X",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Y < Z < X",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "Z < X < Y",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "X < Z < Y",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0001"
+    },
+    {
+      "id": "bf332667-018f-452e-879a-49927e9a72a7",
+      "number": 4,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Refer to the following chemical equation:\n\n\\(\\mathrm{Fe_{2}O_{3}(s)+3CO(g)\\rightarrow2Fe(s)+3CO_{2}(g)} \\)\n\nN moles of  \\( Fe_{2}O_{3} \\)  are allowed to react with 2 N moles of CO under suitable conditions until the reaction stops. How many moles of Fe are formed?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "N",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "2 N",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( \\frac{2}{3} \\)  N",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( \\frac{4}{3} \\)  N",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0001"
+    },
+    {
+      "id": "ee2cf231-8c7a-4696-ac9b-a6d04a94401e",
+      "number": 5,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Hydrated salt X·nH₂O contains 51.16% of water by mass. Given that the molar mass of X is 120.3 g, what is n?\n\n(Relative atomic masses: H = 1.0, 0 = 16.0)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "2",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "7",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "10",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0002"
+    },
+    {
+      "id": "111f01b1-2e0b-4545-84a9-5380c29ec47a",
+      "number": 6,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "50.0 cm\\(^{3} \\)  of 0.6 M FeSO\\( _{4} \\) (aq) is mixed with 150.0 cm\\( ^{3} \\)  of 0.2 M Fe\\( _{2} \\)(SO\\( _{4}\\))\\( _{3} \\) (aq). What is the concentration of SO\\( _{4}^{2-} \\)  (aq) ions in the resulting mixture?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "0.3 M",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "0.4 M",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "0.6 M",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "0.8 M",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0002"
+    },
+    {
+      "id": "35acb2f8-8841-444e-bfc0-fdff75e8cdd8",
+      "number": 7,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following pairs of aqueous solutions, upon mixing, would have the lowest electrical conductivity?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "20.0 cm\\( ^{3} \\) of 0.1 M HNO\\( _{3} \\) and 20.0 cm\\( ^{3} \\)  of 0.1 M KOH",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "20.0 cm\\( ^{3} \\) of 0.1 M H\\( _{2}\\)SO\\( _{4} \\)  and 20.0 cm\\( ^{3} \\) of 0.2 M Ba(OH)\\( _{2} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "20.0 cm\\( ^{3} \\) of 0.1 M CH\\( _{3}\\)COOH and 20.0 cm\\( ^{3} \\)  of 0.1 M NH\\( _{3} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "20.0 cm\\( ^{3} \\) of 0.1 M HCl and 20.0 cm\\( ^{3} \\) of 0.1 M C\\( _{6} \\)H\\( _{12}\\)O\\( _{6}\\) (glucose)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0002"
+    },
+    {
+      "id": "dde30652-a06e-4c79-ac52-0fa8a897b0c6",
+      "number": 8,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following compounds would be formed when bromoethene reacts with chlorine in a suitable organic solvent?",
+      "question_images": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg",
+        "3.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "[IMG:0.jpg]",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "[IMG:1.jpg]",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "[IMG:2.jpg]",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "[IMG:3.jpg]",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0002"
+    },
+    {
+      "id": "c2efc57e-0019-4b93-96b3-9c19ea6b3330",
+      "number": 9,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "score": 1.0,
+      "question_text": "The enthalpy changes of three reactions under certain conditions are shown below:\nReaction Enthalpy change\n\\(B_{2}H_{6}(g) + 3 O_{2}(g) → B_{2}O_{3}(S) + 3H_{2}O(l)  |  -2170 kJ mol^{-1}\\)\n\\(B(s) + 3/4O_{2}(g) → 1/2B_{2}O_{3}(s)  | -635 kJ mol^{-1}\\)\n\\(H_{2}(g) + 1/2O_{2}(g) → H_{2}O(l)  | -286kJ mol^{-1}\\)\n\nWhich of the following is the enthalpy change of formation of  \\( B_{2}H_{6}(g) \\)  under the same conditions?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "+42 kJ mol\\( ^{-1} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "+614 kJ mol\\( ^{-1} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "+677 kJ mol\\( ^{-1} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "+1249 kJ mol\\( ^{-1} \\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0002"
+    },
+    {
+      "id": "240a2fed-19bf-4bee-854e-be3a7efeb98d",
+      "number": 10,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "One mole of methane is allowed to react with two moles of chlorine in the presence of light. Which of the following best describes the organic product(s) that would be formed?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "one mole of  \\( CCl_{4} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "one mole of  \\(CH_{2}Cl_{2} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "a mixture containing only  \\( CCl_{4} \\)  and  \\( CH_{2}Cl_{2} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "a mixture containing  \\( CH_{3}Cl \\) ,  \\( CH_{2}Cl_{2} \\) ,  \\( CHCl_{3} \\)  and  \\( CCl_{4} \\)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0003"
+    },
+    {
+      "id": "6872534b-70a2-4d87-a845-45b620834304",
+      "number": 11,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [],
+      "score": 1.0,
+      "question_text": "The diagram below shows a set-up in which silver is being plated on a spoon:\n[IMG:0.jpg]\n\nWhich of the following statements concerning the above set-up is correct?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "M must be silver.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Q can be silver chloride.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The spoon is connected to the negative pole of the battery.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Electrons flow from metal M to the spoon through the solution.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0003"
+    },
+    {
+      "id": "aa9d8ca7-94f8-420a-acd4-a4eb844ab629",
+      "number": 12,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "score": 1.0,
+      "question_text": "In an experiment, standard HCl(aq) was added from a burette to a known volume of NaOH(aq) placed in an expanded polystyrene cup. The graph below shows the temperatures of the mixture in the cup during the process:\n[IMG:1.jpg]\nWhat is the greatest temperature rise of the mixture in the cup as estimated from the graph above?",
+      "question_images": [
+        "1.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( 2.0 \\, ^{\\circ}C \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( 4.6 \\, ^{\\circ}C \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( 6.2 \\, ^{\\circ}C \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( 6.6 \\, ^{\\circ}C \\)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0003"
+    },
+    {
+      "id": "97a547a0-03b7-4e0f-b672-621818988a0e",
+      "number": 13,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following gases, after dissolved in 1 dm\\( ^{3} \\)  of water, would give a solution with the highest pH?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "0.002 mol of  \\( NO_{2} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "0.002 mol of  \\( SO_{2} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "0.002 mol of  \\( NH_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "0.002 mol of HCl",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0004"
+    },
+    {
+      "id": "d3dca633-4e0c-4334-8daa-61c74340086a",
+      "number": 14,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "score": 1.0,
+      "question_text": "As shown in the diagram below, the glowing splint relights when solid Z is heated.\n[IMG:0.jpg]\n\nWhich of the following chemicals may Z be?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "HgO",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( Al_{2}O_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( CaCO_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( MgCO_{3} \\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0004"
+    },
+    {
+      "id": "6467e4d0-4379-4a7d-ad7d-afd6589200cf",
+      "number": 15,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following hazard warning labels should be displayed on both the reagent bottle storing concentrated sulphuric acid and the reagent bottle storing concentrated hydrochloric acid?\n\n(1) [IMG:1.jpg]\n\n(2) [IMG:2.jpg]\n\n(3) [IMG:3.jpg]",
+      "question_images": [
+        "1.jpg",
+        "2.jpg",
+        "3.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0004"
+    },
+    {
+      "id": "a4f41087-bd78-441f-9281-ccf83dcad797",
+      "number": 16,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning a zinc-carbon cell is / are correct?\n\n(1) The zinc case would become thinner when being used.\n(2) Its voltage remains unchanged when being used.\n(3) It can be recharged after use",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0004"
+    },
+    {
+      "id": "0b15e9ad-1b33-4a50-83c2-76710eac079c",
+      "number": 17,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "What are the advantages of using natural gas over using coal as a fuel in power stations?\n\n(1) In comparing with coal, natural gas burns more completely.\n(2) In comparing with coal, natural gas has less Sulphur-containing substances.\n(3) Natural gas is a renewable energy source, but coal is not.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0004"
+    },
+    {
+      "id": "41dbe011-f384-4c29-ab68-b2d8b72a68d7",
+      "number": 18,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "In an experiment, a small piece of potassium is added to a trough of water containing phenolphthalein. Which of the following statements concerning the experiment are correct?\n\n(1) An exothermic reaction occurs\n(2) A colourless solution is formed.\n(3) The metal burns with a lilac flame.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0005"
+    },
+    {
+      "id": "d4b58c0e-9ff1-4ca5-9342-a14739588d86",
+      "number": 19,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "The set-up of an experiment is shown below. At room temperature, the system initially contains  \\( 40 \\, cm^{3} \\)  of  \\( \\mathrm{N}_{2}(\\mathrm{~g}) \\) ,  \\( 23 \\, cm^{3} \\)  of  \\( \\mathrm{O}_{2}(\\mathrm{~g}) \\)  and  \\( 10 \\, cm^{3} \\)  of  \\( \\mathrm{He}(\\mathrm{g}) \\) .\n[IMG:0.jpg]\nThe plungers of the gas syringes are moved to and fro until there is no further change in the system. The system is then allowed to cool to room temperature. Which of the following statements concerning the experiment are correct?\n\n(1) Some copper powder would change to a black substance.\n(2) The total volume of the gases in the system would decrease by  \\( 25 \\, cm^{3} \\) .\n(3) The same change in total volume of the gases would be observed if excess copper powder is replaced with excess iron powder.",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0005"
+    },
+    {
+      "id": "85208e7c-eeb4-4685-8d2c-a9319c088ff3",
+      "number": 20,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "The diagram below shows the set-up of an experiment:\n[IMG:1.jpg]\n\nWhich of the following methods may light up the light bulb?\n\n(1) heating the sodium bromide powder until molten\n(2) adding deionised water to the sodium bromide powder\n(3) replacing the sodium bromide powder with bromine liquid",
+      "question_images": [
+        "1.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0005"
+    },
+    {
+      "id": "ea77a18c-d081-4b27-9c60-e76b65962701",
+      "number": 21,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following processes would show a blue colour?\n\n(1) adding litmus to NaOH(aq)\n(2) mixing  \\( CuSO_{4}(s) \\)  and  \\( NH_{3}(aq) \\)\n(3)  \\( K_{3}Fe(CN)_{6}(aq) \\)  and  \\( FeCl_{2}(aq) \\)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0006"
+    },
+    {
+      "id": "58f581c5-db41-4eb1-96a5-626214ef3157",
+      "number": 22,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following molecules have non-octet structures?\n\n(1)  \\( NO_{2} \\)\n(2)  \\( PBr_{3} \\)\n(3)  \\( BCl_{3} \\)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0006"
+    },
+    {
+      "id": "d8ae8473-4584-4355-a848-4ed87f3fffca",
+      "number": 23,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "score": 1.0,
+      "question_text": "When a negatively charged rod is placed near a jet of liquid running out from a burette, the jet of liquid deflects towards the rod. Which of the following may the liquid be?\n\n(1) water\n(2) hexane\n(3) trichloromethane",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0006"
+    },
+    {
+      "id": "89fc97e4-7f0f-4120-a3f2-d265219b0026",
+      "number": 24,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: All acidic gases can react with  \\( \\mathrm{CaO(s)} \\)  to form salt and water only.\n2nd statement: All acidic gases contain hydrogen as one of their constituent atoms.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0006"
+    },
+    {
+      "id": "5572ecd4-9372-47be-8d36-f985245933ef",
+      "number": 25,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "\\( H_{2}O_{2}(aq) \\)  decomposes into  \\( H_{2}O(l) \\)  and  \\( O_{2}(g) \\)  in the presence of  \\( \\mathrm{MnO}_{2}(s) \\) . Two experiments are performed to study this decomposition under the same conditions, except that  \\( 50\\ cm^{3} \\)  of  \\( 2\\ M\\ H_{2}O_{2}(aq) \\)  is used in Experiment(1), while  \\( 100\\ cm^{3} \\)  of  \\( 1\\ M\\ H_{2}O_{2}(aq) \\)  is used in Experiment (2). Which of the following combinations is correct?\nRate of formation of  \\( O_{2}(g) \\)  at the start | Total volume of  \\( O_{2}(g) \\)  formed",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Experiment (1) > Experiment (2) | Experiment (1) = Experiment (2)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Experiment (1) > Experiment (2) | Experiment (1) > Experiment (2)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "Experiment (1) = Experiment (2) | Experiment (1) = Experiment (2)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Experiment (1) = Experiment (2) | Experiment (1) > Experiment (2)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0007"
+    },
+    {
+      "id": "0bb16b62-7398-415b-ba00-19610649d236",
+      "number": 26,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the information below:\nReaction | Equilibrium constant at  \\( 25^{\\circ} \\) C\nA(aq) + B(aq)  \\( \\rightleftharpoons \\)  C(aq) + D(aq)  | \\( K_{1} \\)\nC(aq) + D(aq)  \\( \\rightleftharpoons \\)  E(aq) + F(aq) + G(aq)  | \\( K_{2} \\)\nE(aq) + F(aq) + G(aq)  \\( \\rightleftharpoons \\)  A(aq) + B(aq)  | \\( K_{3} \\)\n\nWhich of the following combinations is correct?\n\nRelationship of  \\( K_{1} \\) ,  \\( K_{2} \\)  and  \\( K_{3} \\) | Unit of  \\( K_{3} \\)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( K_{3} = \\frac{1}{K_{1} \\times K_{2}} \\)  | mol dm \\( ^{-3} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( K_{3} = \\frac{1}{K_{1} \\times K_{2}} \\)  | mol \\( ^{-1} \\)  dm \\( ^{3} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( K_{3} = K_{1} \\times K_{2} \\)  | mol dm \\( ^{-3} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( K_{3} = K_{1} \\times K_{2} \\)  | mol \\( ^{-1} \\)  dm \\( ^{3} \\)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0007"
+    },
+    {
+      "id": "59086542-4cf2-40ca-a9f0-7251cada0bf4",
+      "number": 27,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following combinations concerning  \\( CH_{3}CH=CHCH_{2}CH(C_{2}H_{5})_{2} \\)  is correct?\n\nNumber of geometrical isomers    |      Number of enantiomers",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "2 | 4",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "2 | 2",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "0 | 2",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "2 | 0",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0007"
+    },
+    {
+      "id": "62e89c79-722d-43ce-be60-bdb48d0ec187",
+      "number": 28,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following organic reactions where P, Q and R are the major organic products formed.\n\n\\(  CH_{3}CH_{2}CH=CH_{2}\\xrightarrow{\\quad HBr(g)\\quad}P\\xrightarrow{\\quad NaOH(aq)\\quad}Q\\xrightarrow{\\quad K_{2}Cr_{2}O_{7}(aq)/H^{+}(aq)\\quad}R \\)\n\nWhich of the following combinations is correct?\n\nP    |    Q    |     R",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( CH_{3}CH_{2}CHBrCH_{3} \\)  |  \\( CH_{3}CH_{2}CH(OH)CH_{3} \\)  |  \\( CH_{3}CH_{2}COCH_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( CH_{3}CH_{2}CH_{2}CH_{2}Br \\)  |  \\( CH_{3}CH_{2}CH_{2}CH_{2}OH \\)  |  \\( CH_{3}CH_{2}CH_{2}CHO \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( CH_{3}CH_{2}CH_{2}CH_{2}CH_{2}Br \\)  |  \\( CH_{2}CH_{2}CH=CH_{2} \\)  |  \\( CH_{3}CH_{2}CH(OH)CH_{2}OH \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( CH_{3}CH_{2}CHBrCH_{3} \\)  |  \\(CH_{3}CH_{2}CH(OH)CH_{3}\\)  |  \\(CH_{3}CH_{2}CO_{2}H\\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0008"
+    },
+    {
+      "id": "e8b28e24-2c34-4f40-88ff-3a1c88fdce99",
+      "number": 29,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "In which of the following options are molecule Y and molecule Z identical?\n\nMolecule Y  |  Molecule Z\n",
+      "question_images": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg",
+        "3.jpg",
+        "4.jpg",
+        "5.jpg",
+        "6.jpg",
+        "7.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "[IMG:0.jpg] | [IMG:1.jpg]",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "[IMG:2.jpg] | [IMG:3.jpg]",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "[IMG:4.jpg] | [IMG:5.jpg]",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "[IMG:6.jpg] | [IMG:7.jpg]",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0008"
+    },
+    {
+      "id": "47ed0d43-64d1-4855-9666-dff7a95df656",
+      "number": 30,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following graphs (not drawn to scale) correctly shows the variation in electrical conductivity of the elements in the third period of the Periodic Table at room temperature?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": null,
+          "image": "0.jpg"
+        },
+        {
+          "label": "B",
+          "text": null,
+          "image": "1.jpg"
+        },
+        {
+          "label": "C",
+          "text": null,
+          "image": "2.jpg"
+        },
+        {
+          "label": "D",
+          "text": null,
+          "image": "3.jpg"
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0009"
+    },
+    {
+      "id": "915669b6-b90f-44e3-96a5-99dd5e5b152b",
+      "number": 31,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "score": 1.0,
+      "question_text": "The following system attained equilibrium at a certain temperature\n\n\\( 2SO_{2}(g)+O_{2}(g)\\ \\rightleftharpoons \\) \\(2SO_{3}(g) \\)\n\n\nWhich of the following statements is / are correct when the volume of the system is decreased while the temperature remains unchanged?\n\n(1) The value of  \\( K_{c} \\)  increases.\n(2) The equilibrium position shifts to the right.\n(3) The rate of decomposition of  \\( SO_{3}(g) \\)  increases.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0009"
+    },
+    {
+      "id": "79fdb7e7-208e-484a-a27c-78f35508c53a",
+      "number": 32,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning aspirin is/are correct?\n\n(1) It undergoes esterification with ethanoic acid in the presence of an acid catalyst.\n(2) It reacts with sodium carbonate solution to give a colourless gas.\n(3) It can be used to reduce inflammation.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0009"
+    },
+    {
+      "id": "40e7314d-df38-4723-9e99-e2e9ac975168",
+      "number": 33,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "A sunblock cream contains the compound below as the active ingredient:\n\n[IMG:0.jpg]\n\nWhich of the following reagents can react with this compound?\n\n(1) NaOH(aq)\n(2)  \\( PCl_{3}(l) \\)\n(3) acidified  \\( KMnO_{4}(aq) \\)",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0010"
+    },
+    {
+      "id": "c299a062-58b3-4a90-bba3-29091c3c63c3",
+      "number": 34,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "The structure of a detergent is shown below:\n\n[IMG:1.jpg]\n\nWhich of the following statements concerning the detergent are correct?\n\n(1) It has a cleaning function in hard water.\n(2) Vigorous shaking it with oil and water can form a stable emulsion\n(3) It can be formed by reacting a certain vegetable oil with NaOH(aq)",
+      "question_images": [
+        "1.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0010"
+    },
+    {
+      "id": "41429d70-d4c5-4496-915c-a0e0ba181a05",
+      "number": 35,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: At chemical equilibrium state, the forward reaction rate equals zero.\n2nd statement: At chemical equilibrium state, the reactants would not react to give the products.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0010"
+    },
+    {
+      "id": "92abb965-ba80-4156-a6be-451f45302e10",
+      "number": 36,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: Aluminium oxide is soluble in water.\n2nd statement: Aluminium oxide is an amphoteric oxide",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2014chempaper1mc\\page_0010"
+    }
+  ]
+}

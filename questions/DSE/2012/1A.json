@@ -3,7 +3,7 @@
   "year": 2012,
   "paper": "1A",
   "subject": "Chemistry",
-  "total_questions": 36,
+  "total_questions": 24,
   "questions": [
     {
       "id": "f6fb9a83-5922-4ee3-b59f-956a336f5d53",
@@ -866,6 +866,84 @@
       ],
       "answer": "C",
       "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0006"
+    },
+    {
+      "id": "e4541cae-9e2e-4dc7-9c78-6df76f4e1039",
+      "number": 23,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: When iron and copper are separately immersed in hexane completely, iron corrodes faster than copper.\n2nd statement: Iron can be oxidised more readily than copper.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true and the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": null,
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0007"
+    },
+    {
+      "id": "e55f4bd5-a9e0-4c5b-bb38-3bdf1fd1e90d",
+      "number": 24,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: Burning fossil fuels can cause acid rain.\n2nd statement: Burning fossil fuels produces carbon dioxide.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true and the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": null,
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0007"
     }
   ]
 }

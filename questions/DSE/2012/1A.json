@@ -903,7 +903,7 @@
           "image": null
         }
       ],
-      "answer": null,
+      "answer": "C",
       "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0007"
     },
     {
@@ -942,7 +942,7 @@
           "image": null
         }
       ],
-      "answer": null,
+      "answer": "B",
       "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0007"
     },
     {
@@ -1344,26 +1344,6 @@
         {
           "label": "D",
           "text": "(1), (2) and (3)",
-          "image": null
-        },
-        {
-          "label": "A",
-          "text": "",
-          "image": null
-        },
-        {
-          "label": "B",
-          "text": "",
-          "image": null
-        },
-        {
-          "label": "C",
-          "text": "",
-          "image": null
-        },
-        {
-          "label": "D",
-          "text": "",
           "image": null
         }
       ],

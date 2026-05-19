@@ -3,7 +3,7 @@
   "year": 2012,
   "paper": "1A",
   "subject": "Chemistry",
-  "total_questions": 24,
+  "total_questions": 36,
   "questions": [
     {
       "id": "f6fb9a83-5922-4ee3-b59f-956a336f5d53",
@@ -944,6 +944,509 @@
       ],
       "answer": null,
       "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0007"
+    },
+    {
+      "id": "4ec5e82c-4c16-4f63-876e-778175050eeb",
+      "number": 25,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "What is the theoretical volume of carbon dioxide that can be obtained, at room temperature and pressure, when 1.2 g of  \\( Na_{2}CO_{3}(s) \\)  reacts with  \\( 50\\ cm^{3} \\)  of 1.0 M  \\( HNO_{3} \\) ?\n\n(Molar volume of gas at room temperature and pressure = 24 dm \\( ^{3} \\) ;\nRelative atomic masses: H = 1.0, C = 12.0, N = 14.0, O = 16.0, Na = 23.0)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "272 cm \\( ^{3} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "544 cm \\( ^{3} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "600 cm \\( ^{3} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "1200 cm \\( ^{3} \\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0008"
+    },
+    {
+      "id": "5ea1d292-6a28-4052-ba8c-ed05258c2748",
+      "number": 26,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "The concentration-time graph for a certain chemical reaction in a closed vessel of fixed volume is shown below :\n[IMG:0.jpg]\n\nWhich of the following chemical equations correctly represents the reaction?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( P(g) \\rightarrow Q(g) \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( Q(g) \\rightarrow P(g) \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( P(g) \\rightarrow 2Q(g) \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( Q(g) \\rightarrow 2P(g) \\)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0008"
+    },
+    {
+      "id": "0d598324-6fe0-4fa6-ad50-7d6683f310d5",
+      "number": 27,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "In a  \\( 1 \\, dm^{3} \\)  closed container, 1 mole of  \\( X_{2}(g) \\)  undergoes decomposition to form  \\( X(g) \\)  until equilibrium is attained. The chemical equation concerned is shown below:\n\n\\( \\mathbf{X}_{2}(\\mathbf{g})\\rightleftharpoons2\\mathbf{X}(\\mathbf{g}) \\)\n\nWhich of the following graphs correctly shows the variation in concentrations of  \\( X_{2}(g) \\)  and  \\( X(g) \\)  with time?",
+      "question_images": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg",
+        "3.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "[IMG:0.jpg]",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "[IMG:1.jpg]",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "[IMG:2.jpg]",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "[IMG:3.jpg]",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0009"
+    },
+    {
+      "id": "4cf872d6-875f-49f3-9883-da48c670867f",
+      "number": 28,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "The structure of an organic compound is shown below :\n[IMG:4.jpg]\n\nWhich of the following statements is correct?",
+      "question_images": [
+        "4.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The compound does NOT show enantiomerism.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "The molecular formula of the compound is  \\( C_{5}H_{6}O_{4} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The compound contains a ketone group.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "The compound can be oxidised by acidified  \\( K_{2}Cr_{2}O_{7}(aq) \\) .",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0009"
+    },
+    {
+      "id": "4aa7e45c-a728-415d-9e0c-2195f4febaf5",
+      "number": 29,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning compound U  \\( \\left(\\mathrm{CH}_{3}\\mathrm{CH}_{2}\\mathrm{CH}=\\mathrm{CHCH}_{2}\\mathrm{CH}_{2}\\mathrm{OH}\\right) \\)  is correct?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "The empirical formula of U is  \\( C_{3}H_{6}O \\) .",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "The systematic name of U is hex-4-en-1-ol.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "U reacts with HCl to give a single product.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "U can separately turn  \\( Br_{2}(aq) \\)  and acidified  \\( KMnO_{4}(aq) \\)  colourless.",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0010"
+    },
+    {
+      "id": "c7566b24-698f-4462-9234-d7a5117766fe",
+      "number": 30,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following ions can act as both an oxidising agent and a reducing agent?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( Fe^{2+}(aq) \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( Cu^{2+}(aq) \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( Cr_{2}O_{7}^{2-}(aq) \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( MnO_{4}^{-}(aq) \\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0010"
+    },
+    {
+      "id": "3e5c7483-a309-4a0f-a390-4d954bc803ed",
+      "number": 31,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following oxides would form an acidic solution when added to water?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "carbon dioxide",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "silicon dioxide",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "aluminium oxide",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "lithium oxide",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0010"
+    },
+    {
+      "id": "358dcee0-f7e1-487d-9ed0-974281e71655",
+      "number": 32,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following structures represent(s) the active ingredient(s) in aspirin tablets?\n\n(1)\n[IMG:0.jpg]\n(2)\n[IMG:1.jpg]\n(3)\n[IMG:2.jpg]",
+      "question_images": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0010"
+    },
+    {
+      "id": "610d5b32-a165-402b-82f9-ae0477e3eb66",
+      "number": 33,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following compounds can be formed when  \\( (\\mathrm{CH}_{3})_{2}\\mathrm{C}(\\mathrm{OH})\\mathrm{CH}_{2}\\mathrm{CH}_{3} \\)  is dehydrated?\n\n(1)  \\( (\\mathrm{CH}_{3})_{2}\\mathrm{C}=\\mathrm{CHCH}_{3} \\)\n(2)  \\( (\\mathrm{CH}_{3})_{2}\\mathrm{CHCH}=\\mathrm{CH}_{2} \\)\n(3)  \\( CH_{2}=C(CH_{3})CH_{2}CH_{3} \\)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0010"
+    },
+    {
+      "id": "36973a26-4cba-42de-a092-c1e400078271",
+      "number": 34,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "The structure of a compound is shown below :\n[IMG:0.jpg]\n\nWhich of the following statements concerning the compound are correct?\n\n(1) It can form a salt with aqueous ammonia.\n(2) It can be reduced to an alkanol by using  \\( LiAlH_{4} \\) .\n(3) It can form an ester with methanol under suitable conditions.",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        },
+        {
+          "label": "A",
+          "text": "",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0011"
+    },
+    {
+      "id": "9e6c6ec7-7c0a-4b5f-8d26-b291df4b95b0",
+      "number": 35,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: Increasing reaction temperature can increase the yield for all reversible chemical reactions.\n2nd statement: Increasing reaction temperature can shorten the time needed to attain equilibrium for all reversible chemical reactions.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0011"
+    },
+    {
+      "id": "982bcff4-8685-47ba-84ef-46ad333ddac9",
+      "number": 36,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: 2-Chlorobut-1-ene shows geometrical isomerism.\n2nd statement: 2-Chlorobut-1-ene has a double bond.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2012chempaper1\\page_0011"
     }
   ]
 }

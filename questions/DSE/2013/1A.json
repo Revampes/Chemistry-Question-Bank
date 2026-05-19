@@ -1,0 +1,1471 @@
+{
+  "source": "DSE",
+  "year": 2013,
+  "paper": "1A",
+  "subject": "Chemistry",
+  "total_questions": 36,
+  "questions": [
+    {
+      "id": "db9f52b1-a844-4d69-b23d-0939108f86b1",
+      "number": 1,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Silicon is an element in Group IV of the Periodic Table. The oxide of silicon has the chemical formula  \\( SiO_{2} \\) . Which of the following statements about silicon and its oxide is correct?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Silicon is a good conductor of heat.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Silicon exists as simple molecules.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( SiO_{2} \\)  is a hard material at room temperature.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( SiO_{2} \\)  dissolves in water to give an acidic solution.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0001"
+    },
+    {
+      "id": "ed4d31cc-db0c-47bf-9b92-38cb57eee463",
+      "number": 2,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "score": 1.0,
+      "question_text": "Suppose that element X has only two isotopes,  \\( {}^{63}X \\)  and  \\( {}^{65}X \\) . The graph below shows the relative abundance of the two isotopes:\n[IMG:0.jpg]\n\nWhich of the following is the relative atomic mass of X?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "63.3",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "63.5",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "63.6",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "64.0",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0001"
+    },
+    {
+      "id": "4b09f058-7da5-4e07-93ac-faf8cf5b19d2",
+      "number": 3,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Solid Y is soluble in cold water. When an aqueous solution of Y is added separately to sodium hydroxide solution and to acidified silver nitrate solution, a white precipitate is formed in both cases. Which of the following compounds might Y be?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "ammonium carbonate",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "zinc carbonate",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "lead(II) chloride",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "magnesium chloride",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0001"
+    },
+    {
+      "id": "06656040-20b6-4f8a-afe3-5e8df51b9a97",
+      "number": 4,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Scandium (Sc) is a metal. Scandium, in its compounds, exhibits only one oxidation number. The chemical formula of scandium nitrate is  \\( Sc(NO_{3})_{3} \\) . Which of the following is most likely to be the chemical formula of scandium phosphate?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( Sc_{2}(PO_{4})_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( ScPO_{4} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( Sc(PO_{4})_{2} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( Sc(PO_{4})_{3} \\)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0002"
+    },
+    {
+      "id": "1de95320-5008-464b-8d69-aa046d2be098",
+      "number": 5,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following methods can be used to obtain magnesium from magnesium compounds?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "electrolysis of a molten magnesium compound",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "electrolysis of an aqueous solution of a magnesium compound",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "heating magnesium oxide with carbon",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "heating magnesium oxide strongly",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0002"
+    },
+    {
+      "id": "ab8ca567-bc11-4885-92cd-2d48398ed889",
+      "number": 6,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the set-ups shown below can best be used to anodise an aluminium object?",
+      "question_images": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg",
+        "3.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "[IMG:0.jpg]",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "[IMG:1.jpg]",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "[IMG:2.jpg]",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "[IMG:3.jpg]",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0002"
+    },
+    {
+      "id": "223f84ac-afaa-406f-b959-f720f9f95bb6",
+      "number": 7,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Both the frame and gear system of a bicycle are made of steel. Which of the following combinations can be used to prevent these parts of the bicycle from rusting?\nFrame | Gear system",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "painting | greasing",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "painting | galvanising",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "tin-plating | greasing",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "tin-plating | galvanising",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0002"
+    },
+    {
+      "id": "1f64b29f-e49c-4445-aa34-125937049f01",
+      "number": 8,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following reaction routes can best be used to prepare barium sulphate from barium carbonate?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( BaCO_{3}(s) \\xrightarrow{H_{2}SO_{4}(aq)} BaSO_{4}(s) \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( BaCO_{3}(s)\\xrightarrow{conc.H_{2}SO_{4}}BaSO_{4}(s) \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( BaCO_{3}(s)\\xrightarrow{HCl(aq)}BaCl_{2}(aq)\\xrightarrow{H_{2}SO_{4}(aq)}BaSO_{4}(s) \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( BaCO_{3}(s)\\xrightarrow{conc.HCl}BaCl_{2}(aq)\\xrightarrow{Na_{2}SO_{4}(aq)}BaSO_{4}(s) \\)",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0003"
+    },
+    {
+      "id": "87b1683d-8748-4d2f-89c5-4117334cdb73",
+      "number": 9,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements about potassium hydroxide solution is INCORRECT?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "When potassium hydroxide solution is added to iron(III) sulphate solution, a dirty green precipitate is formed.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "When potassium hydroxide solution is heated with ammonium chloride solution, ammonia gas is liberated.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "Dilute potassium hydroxide solution contains  \\( K^{+}(aq) \\)  ions,  \\( H^{+}(aq) \\)  ions and  \\( OH^{-}(aq) \\)  ions.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Concentrated potassium hydroxide solution is corrosive.",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0003"
+    },
+    {
+      "id": "826461dd-87eb-4665-ac5b-47fc58fa6e98",
+      "number": 10,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the four solutions W, X, Y and Z listed below:\nW:  \\( 0.01 \\, mol \\, dm^{-3} \\, HNO_{3}(aq) \\)\nX:  \\( 0.01 \\, mol \\, dm^{-3} \\, H_{2}SO_{4}(aq) \\)\nY:  \\( 0.01 \\, mol \\, dm^{-3} \\, KOH(aq) \\)\nZ:  \\( 0.10 \\, mol \\, dm^{-3} \\, KOH(aq) \\)\n\nWhich of the following represents the four solutions arranged in increasing order of pH?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "W, X, Y, Z",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "W, X, Z, Y",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "X, W, Y, Z",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "X, W, Z, Y",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0003"
+    },
+    {
+      "id": "de416255-ebf4-4528-9ba3-454a86f3a193",
+      "number": 11,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following pairs of aqueous solutions, when mixed, would give a precipitate?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "lead(II) nitrate and ammonia",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "copper(II) sulphate and sodium nitrate",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "calcium chloride and sodium nitrate",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "iron(II) sulphate and acidified potassium dichromate",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0003"
+    },
+    {
+      "id": "210715dd-c955-488c-85f4-abfb2b108807",
+      "number": 12,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "score": 1.0,
+      "question_text": "Both radium (Ra) and calcium (Ca) belong to the same group of the Periodic Table. Which of the following statements is INCORRECT?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Radium is a good conductor of electricity in the solid state.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Radium atoms readily donate electrons to form  \\( Ra^{2+} \\)  ions.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "Both radium and calcium become tarnished after exposed to air for some time.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Radium is less reactive than calcium.",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0003"
+    },
+    {
+      "id": "3add7d09-43ad-4ce6-960a-a4f32be90696",
+      "number": 13,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Titanium (Ti) is a metal. 2.66 g of a sample of titanium powder is heated in excess oxygen until the metal is completely oxidised. The mass of the oxide formed is 4.44 g. Which of the following is the empirical formula of the oxide formed?\n\n(Relative atomic masses: O = 16.0, Ti = 47.9)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "TiO",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( Ti_{2}O_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( Ti_{3}O_{4} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( TiO_{2} \\)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0004"
+    },
+    {
+      "id": "b9e2d465-9967-4105-89de-1714abc02070",
+      "number": 14,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "A portion of the structure of an addition polymer X is shown below:\n[IMG:0.jpg]\n\nWhich of the following is the systematic name of the monomer of X based on the given structure?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "1,1-dichloro-2-methylethene",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "1,1-dichloropropene",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "1,2-dichloropropene",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "3,3-dichloropropene",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0004"
+    },
+    {
+      "id": "4affcd9e-dfbe-45f1-8c3d-a6e076d47b87",
+      "number": 15,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "score": 1.0,
+      "question_text": "For which of the following reactions must its enthalpy change be determined by INDIRECT methods?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( \\mathrm{Zn(s)} + \\mathrm{CuSO_{4}(aq)} \\rightarrow \\mathrm{ZnSO_{4}(aq)} + \\mathrm{Cu(s)} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( 2\\mathrm{C(s)} + \\mathrm{O_{2}(g)} \\rightarrow 2\\mathrm{CO(g)} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( \\mathrm{CH_{3}CH_{2}OH(l)} + 3\\mathrm{O_{2}(g)} \\rightarrow 2\\mathrm{CO_{2}(g)} + 3\\mathrm{H_{2}O(l)} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( \\mathrm{MgO(s)} + 2\\mathrm{HCl(aq)} \\rightarrow \\mathrm{MgCl_{2}(aq)} + \\mathrm{H_{2}O(l)} \\)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0004"
+    },
+    {
+      "id": "60e99043-a7a4-4d6a-8132-1a05c209c032",
+      "number": 16,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following chemical equation:\n\\( 2\\mathrm{IO}_{3}^{-}(\\mathrm{aq})+\\mathrm{wH}_{2}\\mathrm{O}_{2}(\\mathrm{aq})+\\mathrm{xH}^{+}(\\mathrm{aq})\\rightarrow\\mathrm{I}_{2}(\\mathrm{aq})+\\mathrm{yO}_{2}(\\mathrm{g})+\\mathrm{zH}_{2}\\mathrm{O}(\\mathrm{l}) \\)\n\nWhich of the following is the correct combination of the reaction coefficients y and z?\n\ny | z",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "4 | 5",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "5 | 4",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "5 | 6",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "6 | 5",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0004"
+    },
+    {
+      "id": "c2bc9e5c-cfbb-41d2-a391-9e9b3d958aa3",
+      "number": 17,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Potassium peroxodisulphate  \\( \\left(\\mathrm{K}_{2}\\mathrm{S}_{2}\\mathrm{O}_{8}\\right) \\)  can be obtained from the electrolysis of a saturated solution of potassium hydrogensulphate  \\( \\left(\\mathrm{KHSO}_{4}\\right) \\) .\n\nWhich of the following correctly describes the oxidation number of sulphur in  \\( KHSO_{4} \\) , and the electrode at which  \\( K_{2}S_{2}O_{8} \\)  is produced during the electrolysis?\n\nOxidation number of S | Electrode at which \\(K_{2}S_{2}O_{8}\\) is produced",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "+6 | anode",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "+6 | cathode",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "+4 | anode",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "+4 | cathode",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0005"
+    },
+    {
+      "id": "b7cf7440-7898-4a8e-a4eb-2f821f47c049",
+      "number": 18,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "score": 1.0,
+      "question_text": "Under standard conditions, complete combustion of 0.050 mol of propane  \\( \\left(\\mathrm{C}_{3}\\mathrm{H}_{8}\\right) \\)  gives 111 kJ of heat. Which of the following is the standard enthalpy change of formation of propane?\n\n(Standard enthalpy change of formation of  \\( \\mathrm{H}_{2}\\mathrm{O}(\\mathrm{l})=-286\\ \\mathrm{kJ}\\ \\mathrm{mol}^{-1} \\) ;\nstandard enthalpy change of formation of  \\( \\mathrm{CO}_{2}(\\mathrm{~g})=-394\\ \\mathrm{kJ}\\ \\mathrm{mol}^{-1} \\) )",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( -106\\ kJ\\ mol^{-1} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( +106\\ kJ\\ mol^{-1} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( -569\\ kJ\\ mol^{-1} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( +569\\ kJ\\ mol^{-1} \\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0005"
+    },
+    {
+      "id": "e1d5a033-9d0c-4ac2-b53b-a6093dbf2b54",
+      "number": 19,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements about limestone is/are correct?\n\n(1) It gives a golden yellow flame in a flame test.\n(2) It gives a colourless gas when heated strongly.\n(3) It dissolves in dilute sulphuric acid to give a clear solution.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0005"
+    },
+    {
+      "id": "4321bc18-bbd3-4b24-8e15-caf42baf4255",
+      "number": 20,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "An organic compound has the following structure:\n[IMG:0.jpg]\n\n(1) It is immiscible with water.\n(2) It is neutral to litmus solution.\n(3) It burns with a non-luminous flame.\n\nWhich of the following statements about this compound is/are correct?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( (1) \\)  and  \\( (3) \\)  only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( (2) \\)  and  \\( (3) \\)  only",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0005"
+    },
+    {
+      "id": "3df09530-b76e-41b1-a603-7768308515a5",
+      "number": 21,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following is/are secondary cell(s)?\n\n(1) alkaline manganese cell\n(2) lithium ion cell\n(3) nickel metal hydride cell",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0006"
+    },
+    {
+      "id": "36f482e6-ca26-40b9-afb6-cfc65bf9c3fa",
+      "number": 22,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following reagents can be used to distinguish between sodium sulphite and sodium sulphate?\n\n(1) iron(II) chloride solution\n(2) acidified potassium permanganate solution\n(3) concentrated nitric acid",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": null,
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0006"
+    },
+    {
+      "id": "68698160-d1e0-499b-a968-0445f3dacabc",
+      "number": 23,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [],
+      "score": 1.0,
+      "question_text": "To which of the following molecules is/are the 'octet rule' NOT applicable?\n\n(1) \\(OF_{2}\\)\n(2) \\(NO_{2}\\)\n(3) \\(CS_{2}\\)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "（1）and（3）only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "（2）and（3）only",
+          "image": null
+        },
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0006"
+    },
+    {
+      "id": "521b1c04-1e06-4fe7-abb3-79c677addc2b",
+      "number": 24,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: The boiling point of hydrogen chloride is higher than that of hydrogen fluoride.\n2nd statement: The molecular size of hydrogen chloride is greater than that of hydrogen fluoride.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0006"
+    },
+    {
+      "id": "ba952019-a647-49e9-9cd0-7e80e61394e9",
+      "number": 25,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "In an experiment to study the rate of the following reaction, a small amount of powdered calcium carbonate was added to excess hydrochloric acid and the volume of gas liberated was recorded.\n\\(  CaCO_{3}(s)+2HCl(aq)\\rightarrow CaCl_{2}(aq)+H_{2}O(l)+CO_{2}(g) \\)\nThe graph below shows the volumes of gas liberated (V) at different times (t) during the experiment:\n[IMG:0.jpg]\n\nThe experiment was repeated under the same conditions using the same mass of calcium carbonate granules instead of powdered calcium carbonate. Which of the following graphs would best represent the results obtained in the repeated experiment?",
+      "question_images": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg",
+        "3.jpg",
+        "4.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "[IMG:1.jpg]",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "[IMG:2.jpg]",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "[IMG:3.jpg]",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "[IMG:4.jpg]",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0007"
+    },
+    {
+      "id": "444d9eca-0591-40c0-ab60-12d244a7f992",
+      "number": 26,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following is NOT a characteristic property of transition metals?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "They form coloured compounds.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "They exhibit variable oxidation numbers in their compounds.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "They react with dilute hydrochloric acid to give hydrogen gas.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "They exhibit catalytic property in elemental state or as compounds.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0007"
+    },
+    {
+      "id": "c68551bf-1fd8-42a6-96a5-5816ba47d428",
+      "number": 27,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "score": 1.0,
+      "question_text": "\\( 2\\mathrm{X}_{2}(g) + 3\\mathrm{Y}_{2}(g) \\rightleftharpoons 2\\mathrm{XY}_{3}(g) \\)\n\nA mixture of  \\( X_{2}(g) \\)  and  \\( Y_{2}(g) \\)  was introduced into a  \\( 2.0 \\, dm^{3} \\)  closed vessel kept at a fixed temperature. When the system attained equilibrium, the vessel contained  \\( 0.4 \\, mol \\)  of  \\( X_{2}(g) \\) ,  \\( 0.3 \\, mol \\)  of  \\( Y_{2}(g) \\)  and  \\( 0.4 \\, mol \\)  of  \\( XY_{3}(g) \\) .\n\nWhich of the following is the numerical value of  \\( K_{c} \\)  for the above reaction at this temperature?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "3.3",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "6.7",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "14.8",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "59.3",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0008"
+    },
+    {
+      "id": "23d99278-c46c-484c-895e-7683a5351d35",
+      "number": 28,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "score": 1.0,
+      "question_text": "\\( 2\\mathrm{X}_{2}(g) + 3\\mathrm{Y}_{2}(g) \\rightleftharpoons 2\\mathrm{XY}_{3}(g) \\)\n\nRate of forward reaction Rate of backward reaction Yield of \\(XY_{3}(g)\\)\n\nWhich of the following combinations shows the effects of a catalyst on the rate of forward reaction, rate of backward reaction and the yield of  \\( XY_{3}(g) \\) ?\n\nRate of forward reaction | Rate of backward reaction | Yield of \\(XY_{3}(g)\\)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "increased | increased | unchanged",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "unchanged | unchanged | unchanged",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "increased | decreased | increased",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "decreased | increased | decreased",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0008"
+    },
+    {
+      "id": "2dddff17-7c51-47ab-aa2e-db0a46e357cf",
+      "number": 29,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "The structure of fructose is shown below:\n[IMG:0.jpg]\n\nWhich of the following statements about fructose is correct?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Its empirical formula is  \\( C_{6}H_{12}O_{6} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "It can turn acidified potassium dichromate solution from orange to green.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "It is insoluble in water.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Its molecule has five chiral carbon centres.",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0008"
+    },
+    {
+      "id": "7a54687d-b691-4ef4-85bc-85c59c77d137",
+      "number": 30,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "The three-dimensional structure of a molecule of compound X and that of compound Y are shown below:\n[IMG:0.jpg]\n\nWhich of the following statements about X and Y is correct?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "X and Y are identical.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "X and Y are a pair of structural isomers.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "A mixture of X and Y can be separated by fractional distillation.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "X and Y have the same standard enthalpy change of combustion.",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0009"
+    },
+    {
+      "id": "f8b4e02c-662e-45be-b7c7-41a89356dac8",
+      "number": 31,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the compounds X and Y shown below:\n[IMG:1.jpg]\n\nWhich of the following statements about X and Y is correct?",
+      "question_images": [
+        "1.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "X and Y are a pair of geometrical isomers.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both X and Y react with  \\( H_{2}(g) \\)  in the presence of Ni(s).",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "X and Y react separately with  \\( Br_{2} \\)  in  \\( CH_{3}CCl_{3} \\)  to give the same organic product.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both the polymerisation of X and that of Y give the same addition polymer.",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0009"
+    },
+    {
+      "id": "32113b32-8ce7-4ebc-8f13-e61999256b88",
+      "number": 32,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements about the action of sodium hydroxide solution on ethanamide is/are correct?\n\n(1) Sodium ethanoate is formed in the reaction.\n(2) In the reaction, sodium hydroxide acts as a catalyst.\n(3) The reaction attains equilibrium if the reaction mixture is heated under reflux.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0009"
+    },
+    {
+      "id": "109eca90-285a-4b98-81a5-ff79e10ad3fb",
+      "number": 33,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "For which of the following can their progress of reaction be followed by colorimetry?\n(1)  \\( 2\\mathrm{MnO}_{4}^{-}(\\mathrm{aq}) + 5\\mathrm{C}_{2}\\mathrm{O}_{4}^{2-}(\\mathrm{aq}) + 16\\mathrm{H}^{+}(\\mathrm{aq}) \\rightarrow 2\\mathrm{Mn}^{2+}(\\mathrm{aq}) + 10\\mathrm{CO}_{2}(\\mathrm{g}) + 8\\mathrm{H}_{2}\\mathrm{O}(\\mathrm{l}) \\)\n(2)  \\( SO_{3}^{2-}(aq) + 2H^{+}(aq) \\rightarrow SO_{2}(aq) + H_{2}O(l) \\)\n(3)  \\( Br_{2}(aq) + HCO_{2}H(aq) \\rightarrow 2Br^{-}(aq) + CO_{2}(g) + 2H^{+}(aq) \\)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0009"
+    },
+    {
+      "id": "69322643-5be6-4397-99d4-4317a71a6497",
+      "number": 34,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following conversion of organic compounds:\n[IMG:0.jpg]\n\nWhich of the following statements about the above conversion are correct?\n\n(1) Excess  \\( Br_{2}(l) \\)  should be used in Step 1.\n(2) Light is needed in Step 1.\n(3) The reagent used in Step 2 can be KOH(aq).",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0010"
+    },
+    {
+      "id": "f5202664-9f6f-45f2-acda-024534abd508",
+      "number": 35,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "In order to prepare 2-chloro-2-methylpropane, a mixture of 2-methylpropan-2-ol and concentrated hydrochloric acid is shaken vigorously.\n\n\\( \\mathrm{(CH_{3})_{3}COH\\xrightarrow{conc.HCl}(CH_{3})_{3}CCl} \\)\n\n(1) Two layers of liquids can be observed in the reaction mixture after shaking.\n(2) The crude product should be washed with sodium carbonate solution.\n(3) The unreacted 2-methylpropan-2-ol can be removed by simple distillation.\n\nWhich of the following statements about this preparation are correct?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        },
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0010"
+    },
+    {
+      "id": "80eb24f4-530b-4119-8c3b-e747beb6e7ec",
+      "number": 36,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: Both aluminium oxide and magnesium oxide exhibit similar acid-base properties.\n2nd statement: Both aluminium oxide and magnesium oxide are ionic oxides.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2013chempaper1mc\\page_0010"
+    }
+  ]
+}

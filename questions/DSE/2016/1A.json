@@ -1,0 +1,1431 @@
+{
+  "source": "DSE",
+  "year": 2016,
+  "paper": "1A",
+  "subject": "Chemistry",
+  "total_questions": 36,
+  "questions": [
+    {
+      "id": "b143375e-38e8-43e6-a5c8-c382b2ba950b",
+      "number": 1,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "A flame test conducted for a sample gives a brick-red flame. The sample may contain",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "chalk.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "quartz.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "graphite.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "rock salt.",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0001"
+    },
+    {
+      "id": "1b0070ef-d10f-4b0c-a878-34ccbedbc93f",
+      "number": 2,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following is the electron diagram (only electrons in the outermost shells are shown) of lithium sulphide?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "[IMG:1.jpg]",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "[IMG:2.jpg]",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "[IMG:3.jpg]",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "[IMG:4.jpg]",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0001"
+    },
+    {
+      "id": "c4a594bd-e8c7-4407-bdeb-c4b6e743323a",
+      "number": 3,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following information concerning metal Y :\n\n(1) Y reacts vigorously with water.\n(2) Y forms an oxide with chemical formula  \\( Y_{2}O \\) .\n(3) An atom of Y has five occupied electron shells.\n\nY may be",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "silver (Ag).",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "caesium (Cs).",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "strontium (Sr).",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "rubidium (Rb).",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0001"
+    },
+    {
+      "id": "0b64bda7-5005-4e8a-a640-2314e646067a",
+      "number": 4,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following experimental set-up :\n[IMG:0.jpg]\n\nWhich of the following would NOT be X?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "iron",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "zinc",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "copper",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "magnesium",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0001"
+    },
+    {
+      "id": "69c7317f-6e4a-4c86-b3c7-b63f19195b66",
+      "number": 5,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Tin plating is used to prevent iron cans from rusting because",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "tin provides sacrificial protection to iron.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "tin layer prevents iron from exposure to air.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "tin is higher than iron in the metal reactivity series.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "tin and iron form an alloy which does not corrode.",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0002"
+    },
+    {
+      "id": "14e322c0-fc4b-40a1-9dbb-28901f04f3ba",
+      "number": 6,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "The pH of a sample of sulphuric acid is 2.6. 100 cm\\( ^{3} \\) of this sample is mixed with 100 cm\\( ^{3} \\) of water. What is the pH of the resulting mixture?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "5.8",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "2.9",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "2.6",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "1.3",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0002"
+    },
+    {
+      "id": "28b92837-a1df-4330-b4f9-8083da9c7841",
+      "number": 7,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following experimental set-up :\n[IMG:0.jpg]\nA colourless gas is given out when water is dropped to the mixture. Which of the following statements is correct?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxalic acid ionises in water to give hydrogen ions.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Zinc ionises in water to give zinc ions.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "Water reacts with oxalic acid to give the colourless gas.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Water reacts with zinc to give the colourless gas.",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0002"
+    },
+    {
+      "id": "ea47df72-5dcd-40ce-9c38-672daa9ee0f5",
+      "number": 8,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following pairs of substances, when mixed together, can be used to prepare copper(II) sulphate crystals?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( \\mathrm{CuO(s)} \\)  and  \\( \\mathrm{H_{2}SO_{4}(aq)} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( \\mathrm{CuO(s)} \\)  and  \\( \\mathrm{MgSO_{4}(aq)} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( \\mathrm{Cu(s)} \\)  and  \\( \\mathrm{H_{2}SO_{4}(aq)} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( \\mathrm{Cu(s)} \\)  and  \\( \\mathrm{MgSO_{4}(aq)} \\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0002"
+    },
+    {
+      "id": "4a8760d5-4d0f-417d-a5f2-2d4567ecfb66",
+      "number": 9,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "1 mol of a hydrocarbon requires 9 mol of oxygen for complete combustion. Which of the following may be this hydrocarbon?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( C_{6}H_{6} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( C_{6}H_{10} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( C_{6}H_{12} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( C_{6}H_{14} \\)",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0002"
+    },
+    {
+      "id": "8e5f38cc-df56-4abd-9f52-0dfdc112467d",
+      "number": 10,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following CANNOT be converted into substances that are less harmful when passed through a catalytic converter?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "nitrogen oxides",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "sulphur dioxide",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "carbon monoxide",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "unburnt hydrocarbons",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0003"
+    },
+    {
+      "id": "e4e05be2-a3b1-428d-be20-02c3021a8656",
+      "number": 11,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "In which of the following compounds does nitrogen have the highest oxidation number?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( NF_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( N_{2}H_{4} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( NaNH_{2} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( HONH_{2} \\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0003"
+    },
+    {
+      "id": "247cfc7b-c956-4ce1-ac6e-69a086d4c742",
+      "number": 12,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "The diagram below shows the set-up used in an electroplating experiment involving four iron rods :\n[IMG:0.jpg]\nOn which of the following iron rods would a metal be plated?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Rod I",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Rod II",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "Rod III",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Rod IV",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0003"
+    },
+    {
+      "id": "2b4c6e09-06f2-4fa7-a189-d710b7c5ad3e",
+      "number": 13,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Gas X is bubbled steadily into solution Y as shown in the diagram below :\n[IMG:1.jpg]\nIn which of the following combinations would NOT have a visible change in solution Y?\ngas X    |    solution Y",
+      "question_images": [
+        "1.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\(Cl_{2}(g)\\)    |    KI(aq)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\(O_2(g)\\)    |    \\(FeSO_4(aq)\\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\(CO_2(g)\\)    |    acidified \\(KMnO_4(aq)\\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\(SO_2(g)\\)    |    acidified \\(Na_2Cr_2O_7(aq)\\)",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0003"
+    },
+    {
+      "id": "dc44d889-12dc-4227-ae36-86a9c9dabd88",
+      "number": 14,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following is NOT a redox reaction?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( 2AgBr(s) \\rightarrow 2Ag(s) + Br_{2}(g) \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( SO_{2}(g) + 2H_{2}S(g) \\rightarrow 3S(s) + 2H_{2}O(l) \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( 2KClO_{3}(s) \\rightarrow 2KCl(s) + 3O_{2}(g) \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( \\mathrm{Ca(HCO_{3})_{2}(aq)} \\rightarrow \\mathrm{CaCO_{3}(s)} + \\mathrm{H_{2}O(l)} + \\mathrm{CO_{2}(g)} \\)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0004"
+    },
+    {
+      "id": "735c5f7e-0ac6-4a65-8ce9-e8b96f1a4f3d",
+      "number": 15,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "The following equation shows the reaction when a secondary cell is discharging :\n\n\\( 2\\mathrm{NiO(OH)(s)} + \\mathrm{Cd(s)} + 2\\mathrm{H_{2}O(l)} \\rightarrow 2\\mathrm{Ni(OH)_{2}(s)} + \\mathrm{Cd(OH)_{2}(s)} \\)\n\nWhich of the following half equations shows the change at the negative electrode when the cell is being recharged?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( \\mathrm{Cd(s) + 2OH^{-}(aq) \\rightarrow Cd(OH)_{2}(s) + 2e^{-}} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( \\mathrm{Cd(OH)_{2}(s) + 2e^{-} \\rightarrow Cd(s) + 2OH^{-}(aq)} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( \\mathrm{Ni(OH)_{2}(s) + OH^{-}(aq) \\rightarrow NiO(OH)(s) + H_{2}O(l) + e^{-}} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( \\mathrm{NiO(OH)(s) + H_{2}O(l) + e^{-} \\rightarrow Ni(OH)_{2}(s) + OH^{-}(aq)} \\)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0004"
+    },
+    {
+      "id": "53722439-4f92-428a-a622-2411e8a298e0",
+      "number": 16,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following compounds has the highest boiling point?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "HF",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "HCl",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\(PH_{3}\\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\(H_{2}Se\\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0004"
+    },
+    {
+      "id": "d1372a75-f4cc-44ed-94d7-ef0e28cbc4cc",
+      "number": 17,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning petroleum is / are correct?\n\n(1) It is a source of aliphatic hydrocarbons.\n(2) It can be separated into liquids of different viscosity by a separating funnel.\n(3) It is a fossil fuel derived from ancient marine organisms.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0004"
+    },
+    {
+      "id": "97344c15-e9a9-488e-9d04-5ad903286294",
+      "number": 18,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning vinegar is / are correct?\n\n(1) The process of forming hydrogen ions in vinegar is reversible.\n(2) Neutralisation occurs when sugar is added to vinegar.\n(3) The pH of vinegar used in kitchen is around 1.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0005"
+    },
+    {
+      "id": "b9b3779b-3056-4957-8448-67b2cd462147",
+      "number": 19,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "The hazard warning label below is displayed on a bottle containing chemical Z :\n[IMG:0.jpg]\n\nWhich of the following chemicals may Z be?\n\n(1) sodium\n(2) trichloromethane\n(3) concentrated aqueous ammonia",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0005"
+    },
+    {
+      "id": "6b7ba177-da9e-40b2-a60f-052b62c985a8",
+      "number": 20,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis",
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "Pb is an element in Group IV of the Periodic Table and can form  \\( Pb^{2+} \\)  ion. Which of the following statements are correct?\n\n(1) The change from  \\( Pb^{2+} \\) ion to Pb atom is a reduction.\n(2) Both Pb atom and  \\( Pb^{2+} \\) ion have the same number of protons.\n(3) Both Pb atom and  \\( Pb^{2+} \\) ion have the same number occupied electron shells.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0005"
+    },
+    {
+      "id": "50ed0a08-6447-4115-9558-bedc1dbd7145",
+      "number": 21,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following molecules have a similar shape?\n\n(1) \\(BCl_{3}\\)\n(2) \\(NH_{3}\\)\n(3) \\(PF_{3}\\)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0006"
+    },
+    {
+      "id": "6ef9ea41-0b32-4372-9f1a-51ae8783d575",
+      "number": 22,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following processes are exothermic?\n\n(1) placing calcium oxide in water\n(2) placing a zinc strip in a copper(II) sulphate solution\n(3) passing hydrogen chloride gas into a sodium hydroxide solution",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0006"
+    },
+    {
+      "id": "7871905a-d278-4c68-9671-34984a902ec7",
+      "number": 23,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: During anodisation, the aluminium oxide on the surface of aluminium is reduced to metal.\n2nd statement: The corrosion resistance of aluminium can be enhanced by andisation.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0006"
+    },
+    {
+      "id": "b35ce789-2a03-47a6-9363-adc431d1f141",
+      "number": 24,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: The standard enthalpy change of formation of a compound must be a negative value.\n2nd statement: Under standard conditions, a compound must be energetically more stable than its constituent elements.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0006"
+    },
+    {
+      "id": "bef8391a-0366-4693-9d49-81e4c462ce6a",
+      "number": 25,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "In an experiment, 0.03 mol of Mg(s) is allowed to react with 20.0 cm \\( ^{3} \\)  of 1.0 M HCl(aq). Which of the following graphs best represents the results of the experiment?",
+      "question_images": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg",
+        "3.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "[IMG:0.jpg]",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "[IMG:1.jpg]",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "[IMG:2.jpg]",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "[IMG:3.jpg]",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0007"
+    },
+    {
+      "id": "81c52415-481a-4a75-ae4f-a653d98e4bc3",
+      "number": 26,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "score": 1.0,
+      "question_text": "The following reaction has attained equilibrium in a fixed volume container :\n\\( \\mathrm{CO(g)+H_{2}O(g)\\rightleftharpoons CO_{2}(g)+H_{2}(g)}\\qquad\\Delta H=-41.1\\ kJ\\ mol^{-1} \\)\nWhich of the following is correct if the temperature of the system is increased?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "The pressure of the system remains unchanged.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both the rates of forward and backward reaction increase.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The equilibrium constant of the reaction remains unchanged.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "The respective yields of  \\( CO_{2}(g) \\)  and  \\( H_{2}(g) \\)  increase to the same extent.",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0007"
+    },
+    {
+      "id": "cb9f17e3-49ac-4860-a24e-39dbd3507ff1",
+      "number": 27,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following equilibrium system :\n\\(\\mathrm{Br_{2}(aq)+H_{2}O(l)\\rightleftharpoons HOBr(aq)+H^{+}(aq)+Br^{-}(aq)} \\)\nWhich of the following can turn the colour of the system paler?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "passing HCl(g) into the system",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "passing HBr(g) into the system",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "adding NaBr(s) to the system",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "adding NaOH(s) to the system",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0007"
+    },
+    {
+      "id": "22454360-4331-43ac-b458-dd813ef12fad",
+      "number": 28,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning but-1-ene and butan-1-ol is INCORRECT?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both of them can decolourise acidified  \\( KMnO_{4}(aq) \\) .",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Butan-1-ol can react with  \\( PB_{3}(l) \\) while but-1-ene cannot.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "Both of them can react with  \\( H_{2}(g) \\) in the presence of platinum.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "But-1-ene can be obtained from heating butan-1-ol with  \\( Al_{2}O_{3}(s) \\) .",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0008"
+    },
+    {
+      "id": "cb11ee39-93a4-436f-8bd0-e532cefecded",
+      "number": 29,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "The molecular formula of compound X is  \\( C_{4}H_{4}O_{4} \\) . It has two —COOH groups. How many isomers may X have?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "5",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "4",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "3",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "2",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0008"
+    },
+    {
+      "id": "d5bf4cfa-0c2f-4520-8733-2fb21dce21de",
+      "number": 30,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following trends involving Na, Mg and Al is INCORRECT?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Melting point of metal : Al > Mg > Na",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Electronegativity of metal : Al > Mg > Na",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "Metal reactivity with water : Na > Mg > Al",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Base strength of metal oxide :  \\( Al_{2}O_{3} > MgO > Na_{2}O \\)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0008"
+    },
+    {
+      "id": "acb2e8a3-fdae-4724-8330-06e92223b5e2",
+      "number": 31,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning nylon-6,6 is / are correct?\n\n(1) It can be used to make ropes.\n(2) The polymerisation in forming it is a hydrolysis process.\n(3) Its repeating unit is [IMG:0.jpg]",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0008"
+    },
+    {
+      "id": "17a776eb-3e74-4eb5-9306-23919f31831b",
+      "number": 32,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Aspartame is an artificial sweetener. The structure of it is shown below :\n[IMG:0.jpg]\n\nWhich of the following statements concerning an aspartame molecule is / are correct?\n\n(1) It has two ester groups.\n(2) It has two chiral centres.\n(3) It has two amide groups.",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0009"
+    },
+    {
+      "id": "8cc8afc0-1fcc-4b9e-a234-a6de2f80f751",
+      "number": 33,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements are correct?\n\n(1) Magnesium oxide dissolves faster in 1 M HCl(aq) than in 1 M CH_{3}CO_{2}H(aq).\n(2) Powdered marble dissolves faster in 1 M HCl(aq) than granular marble does.\n(3)  \\( H_{2}O_{2}(aq) \\)  decomposes faster in the presence of  \\( MnO_{2}(s) \\)  than without  \\( MnO_{2}(s) \\) .",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0009"
+    },
+    {
+      "id": "0dec815d-76ca-4955-ae38-4d465498e1a1",
+      "number": 34,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following reaction :\n\\( \\mathrm{Br_{2}(aq)+HCOOH(aq)\\rightarrow CO_{2}(g)+2HBr(aq)} \\)\n\nWhich of the following can be measured in order to follow the progress of the reaction?\n\n(1) the volume of gas formed\n(2) the turbidity of the reaction mixture\n(3) the colour intensity of the reaction mixture",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0009"
+    },
+    {
+      "id": "766c55c9-d49c-4be3-8df8-6de64e672662",
+      "number": 35,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Soap can\n(1) be made from fats.\n(2) emulsify oily particles.\n(3) increase the surface tension of water.\n\nWhich of the following combinations is correct?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0010"
+    },
+    {
+      "id": "94a4efd8-a0d6-4c8d-bb8c-525810b1d6ce",
+      "number": 36,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement: \\( P_{4}O_{10}(s) \\)  can react with NaOH(aq).\n2nd statement: \\( P_{4}O_{10}(s) \\)  is an acidic oxide.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2016chempaper1mc\\page_0010"
+    }
+  ]
+}

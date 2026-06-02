@@ -1,0 +1,1428 @@
+{
+  "source": "DSE",
+  "year": 2023,
+  "paper": "1A",
+  "subject": "Chemistry",
+  "total_questions": 36,
+  "questions": [
+    {
+      "id": "258e834a-09f0-4519-8397-92eb5092d7db",
+      "number": 1,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following mixtures can be separated by filtration?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "a mixture of oil and water",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "a mixture of ethanol and water",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "a mixture of silver chloride and water",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "a mixture of sodium chloride and water",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0001"
+    },
+    {
+      "id": "e5380c61-ac90-4938-9639-27888219cef0",
+      "number": 2,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following gases can cause acid rain?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( \\mathrm{CH_{4}(g)} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( \\mathrm{CO(g)} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( \\mathrm{N_{2}(g)} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( \\mathrm{SO_{2}(g)} \\)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0001"
+    },
+    {
+      "id": "8c82bafa-540d-4023-9e88-ea0a0f8f7c3d",
+      "number": 3,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Solid W dissolves in water to form an alkaline solution. What is W?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "calcium oxide",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "calcium chloride",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "copper(II) oxide",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "copper(II) chloride",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0001"
+    },
+    {
+      "id": "ed85f3c0-325c-4af5-b617-1763ff20444d",
+      "number": 4,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "The table below shows the molar masses of four fertilisers. Which of the following fertilisers has the highest percentage by mass of nitrogen?\n<table><tr><td>Fertiliser</td><td>Molar mass / g</td></tr><tr><td>\\( (NH_{2})_{2}CO \\)</td><td>60.0</td></tr><tr><td>\\( NH_{4}NO_{3} \\)</td><td>80.0</td></tr><tr><td>\\( NaNO_{3} \\)</td><td>85.0</td></tr><tr><td>\\( (NH_{4})_{2}SO_{4} \\)</td><td>132.1</td></tr></table>\n\n(Relative atomic mass : N = 14.0)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( (NH_{2})_{2}CO \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( NH_{4}NO_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( NaNO_{3} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( (NH_{4})_{2}SO_{4} \\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0001"
+    },
+    {
+      "id": "20b3b83e-bd30-4549-bf6d-fe1d89696501",
+      "number": 5,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following experimental set-up :\n[IMG:0.jpg]\n\nWhat can be observed after the circuit is closed for a period of time?",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A purple patch and a blue patch migrate towards P.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "A purple patch and a blue patch migrate towards Q.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "A purple patch migrates towards P while a blue patch migrates towards Q.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "A purple patch migrates towards Q while a blue patch migrates towards P.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0002"
+    },
+    {
+      "id": "98f855ee-abe7-475e-9566-a5efdc64255e",
+      "number": 6,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Metal X is less reactive than silver. 2.21 g of an oxide of X is heated strongly until no further reaction. The mass of the solid remaining is 1.97 g. What is the chemical formula of this oxide?\n\n(Relative atomic masses : O = 16.0, X = 197.0)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "XO",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( XO_{2} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( X_{2}O \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( X_{2}O_{3} \\)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0002"
+    },
+    {
+      "id": "6b2761e6-7818-4424-89f1-975a5d3bd7f3",
+      "number": 7,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning aqueous ammonia is INCORRECT?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Aqueous ammonia is a weak alkali.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Concentrated aqueous ammonia is corrosive.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "Aqueous ammonia can be used to distinguish between Pb(NO_{3})_{2}(aq) and Al(NO_{3})_{3}(aq).",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "When aqueous ammonia is added to  \\( CuSO_{4}(aq) \\)  until in excess, a deep blue solution is formed.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0002"
+    },
+    {
+      "id": "fa9b7652-775c-41a4-9a7e-f9a8bf2ae6fe",
+      "number": 8,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following is endothermic?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "dilution of concentrated sulphuric acid with water",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "thermal decomposition of limestone",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "reaction of quicklime with water",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "combustion of ethanol",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0002"
+    },
+    {
+      "id": "7dd7b33b-6ad6-4b60-ad7d-f3fc4f6a94b0",
+      "number": 9,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following equations can represent a possible reaction for the cracking of  \\( C_{16}H_{34} \\)  to give propene and other organic products?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "C_{16}H_{34} → C_{2}H_{4} + C_{7}H_{14} + C_{7}H_{16}",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "C_{16}H_{34} → C_{3}H_{6} + C_{6}H_{12} + C_{7}H_{14}",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "C_{16}H_{34} → C_{3}H_{6} +C_{6}H_{14} + C_{7}H_{14}",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "C_{16}H_{34} → C_{3}H_{8} + C_{5}H_{10} + C_{8}H_{16}",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0002"
+    },
+    {
+      "id": "86680090-910a-44e2-ac5a-287c097b6ef7",
+      "number": 10,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Petroleum can be separated into different fractions by fractional distillation in a fractionating tower. Fraction U is obtained from the upper part of the fractionating tower and fraction L is obtained from the lower part of the fractionating tower. Which of the following statements is correct?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Fraction U has a higher boiling range and a higher viscosity than fraction L.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Fraction U has a higher boiling range and a lower viscosity than fraction L.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "Fraction U has a lower boiling range and a higher viscosity than fraction L.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Fraction U has a lower boiling range and a lower viscosity than fraction L.",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0003"
+    },
+    {
+      "id": "daa04e56-1717-4e7c-bc2d-fcd675e5edc0",
+      "number": 11,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following three chemical cells :\n[IMG:0.jpg] [IMG:1.jpg]\n[IMG:2.jpg]\n\nWhich of the following correctly shows the descending order of reactivity of the three metals P, Q and R?",
+      "question_images": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "P > Q > R",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "P > R > Q",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "R > P > Q",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Q > R > P",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0003"
+    },
+    {
+      "id": "a26d11fb-a2f3-43fb-8c82-cf213b4c4a3a",
+      "number": 12,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "score": 1.0,
+      "question_text": "When 40 cm³ of 0.5 M hydrochloric acid is mixed with 40 cm³ of 0.5 M sodium hydroxide solution, there is a temperature rise of  \\( \\Delta T \\) . What would be the temperature rise if 60 cm³ of 1.0 M hydrochloric acid is mixed with 60 cm³ of 0.5 M sodium hydroxide solution?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( 0.75 \\Delta T \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( \\Delta T \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( 1.5 \\Delta T \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( 2 \\Delta T \\)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0003"
+    },
+    {
+      "id": "3b4f2604-2aec-48d3-9d77-4a42c33ed728",
+      "number": 13,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following combinations concerning the electrolysis of copper(II) sulphate solution is correct?\n\nAnode    |    Cathode    |    Observation",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "graphite    |    graphite    |    A reddish brown solid is deposited on the anode",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "graphite    |    copper    |    The mass of the cathode decreases",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "copper    |    copper    |    The blue colour of the solution fades out",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "copper    |    graphite    |    The mass of the anode decreases",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0004"
+    },
+    {
+      "id": "1c3e590f-06fc-49b4-9c0a-5f32e29ebb75",
+      "number": 14,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "score": 1.0,
+      "question_text": "0.729 g of magnesium ribbon reacts with 50.0 cm \\( ^{3} \\)  of 0.50 M sulphuric acid. What is the mass of magnesium ribbon remained after the reaction has completed?\n\n(Relative atomic mass : Mg = 24.3)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "0.122 g",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "0.243 g",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "0.425 g",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "0.608 g",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0004"
+    },
+    {
+      "id": "802a6415-81af-4d69-b97f-ca7063f99104",
+      "number": 15,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 1: Planet Earth"
+      ],
+      "score": 1.0,
+      "question_text": "Argon is a gas at room temperature and pressure because",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "the outermost electron shell of an argon atom has an octet structure.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "the attractive force between argon atoms is weak.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "argon molecules are monoatomic.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "argon is chemically inert.",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0004"
+    },
+    {
+      "id": "9b4633b4-1ec7-4652-a929-73e77973bd12",
+      "number": 16,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following reaction :\n\\( Cl_{2} + 2Br^{-} \\rightarrow Br_{2} + 2Cl^{-}  \\)\n\nWhich of the following statements concerning the oxidising agent in this reaction is correct?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "It loses electrons and is reduced.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "It gains electrons and is reduced.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "It loses electrons and is oxidised.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "It gains electrons and is oxidised.",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0004"
+    },
+    {
+      "id": "d8f2d659-51ec-47be-afd4-f4fd9c2c1182",
+      "number": 17,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 6: Microscopic World II"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning ice and water is / are correct?\n\n(1) Ice has an open structure but water does not.\n(2) The number of hydrogen bonds formed between  \\( H_{2}O \\)  molecules in ice is double that in water.\n(3) The shape of a  \\( H_{2}O \\)  molecule in ice is tetrahedral while the shape of a  \\( H_{2}O \\)  molecule in water is V-shaped.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0004"
+    },
+    {
+      "id": "f7408c2c-29b0-481b-b631-57f05ab8be72",
+      "number": 18,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 2: Microscopic World I"
+      ],
+      "score": 1.0,
+      "question_text": "X and Z are two elements. The table below shows some physical properties of two bromides, XBr and ZBr.\n<table><tr><td></td><td>Melting point /  \\( {}^{\\circ} \\) C</td><td>Boiling point /  \\( {}^{\\circ} \\) C</td><td>Solubility in water</td></tr><tr><td>XBr</td><td>459</td><td>1 325</td><td>soluble</td></tr><tr><td>ZBr</td><td>32</td><td>105</td><td>insoluble</td></tr></table>\n\nWhich of the following statements is / are correct?\n\n(1) XBr is a hard but brittle solid at room temperature.\n(2) ZBr has a giant covalent structure.\n(3) X is a metal and Z is a non-metal.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0005"
+    },
+    {
+      "id": "8201589e-564f-48da-a43e-526cea3460b9",
+      "number": 19,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Members of the homologous series of alkenes have the same\n\n(1) structural formula.\n(2) empirical formula.\n(3) general formula.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0005"
+    },
+    {
+      "id": "a03517a3-48d4-4b2c-8f60-8ff2f7c7b4c8",
+      "number": 20,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 8: Chemical Reactions and Energy"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements is / are correct?\n\n(1) The standard enthalpy change of formation of liquid nitrogen is not equal to zero.\n(2) The standard enthalpy change of formation of a compound must be a negative value.\n(3) The standard enthalpy change of formation of CO(g) can be determined directly from experiment.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0005"
+    },
+    {
+      "id": "a34b99b5-be11-4dd0-93ca-325f73e755a5",
+      "number": 21,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 3: Metals"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following set-ups can be used to prevent an underground iron pipe from rusting?\n[IMG:0.jpg]",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0005"
+    },
+    {
+      "id": "09f0bd69-1119-4ded-8e7d-a967bcf72fb9",
+      "number": 22,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [],
+      "score": 1.0,
+      "question_text": "Consider the following two solutions :\nSolution A : 100 cm \\( ^{3} \\)  of 1.0 M nitric acid\nSolution B : 100 cm \\( ^{3} \\)  of 0.5 M sulphuric acid\n\nWhich of the following statements are correct?\n\n(1) Both solution A and solution B can react with iron.\n(2) Complete neutralisation of solution A and complete neutralisation of solution B require the same volume of 1.0 M potassium hydroxide solution.\n(3) When 0.05 mol of  \\( CaCO_{3}(s) \\)  is separately added to solution A and to solution B, the same number of moles of gas is evolved in both cases.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0006"
+    },
+    {
+      "id": "f6028c55-e77a-4d9e-95ff-df72aa427d2d",
+      "number": 23,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 4: Acids and Bases"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning ethanoic acid are correct?\n\n(1) Ethanoic acid is present in vinegar.\n(2) Ethanoic acid changes phenolphthalein indicator from colourless to pink.\n(3) Ethanoic acid is an alkanoic acid.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0006"
+    },
+    {
+      "id": "e64954cc-ed4f-4015-a190-fb5b95e716fe",
+      "number": 24,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement : Butane and methylpropane have the same\nphysical properties.\n2nd statement : Butane and methylpropane have the same\nmolecular formula.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0006"
+    },
+    {
+      "id": "c194462a-e1e6-4228-afee-e19a315429cf",
+      "number": 25,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "In order to investigate the decomposition of  \\( H_{2}O_{2}(aq) \\)  to form  \\( O_{2}(g) \\) , two experiments were carried out with  \\( H_{2}O_{2}(aq) \\)  in the presence of the same amount of a suitable catalyst at room conditions. The concentrations and volumes of  \\( H_{2}O_{2}(aq) \\)  used are shown below:\n<table><tr><td>Experiment</td><td>Concentration of  \\( \\mathrm{H}_{2}\\mathrm{O}_{2}(\\mathrm{aq})/\\mathrm{M} \\)</td><td>Volume of  \\( \\mathrm{H}_{2}\\mathrm{O}_{2}(\\mathrm{aq})/\\text{cm}^{3} \\)</td></tr><tr><td>I</td><td>1.0</td><td>25</td></tr><tr><td>II</td><td>0.5</td><td>50</td></tr></table>\n\nWhich of the following graphs correctly shows the variation in the volume of  \\( O_{2}(g) \\)  evolved with time in the above two experiments?",
+      "question_images": [
+        "0.jpg",
+        "1.jpg",
+        "2.jpg",
+        "3.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "[IMG:0.jpg]",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "[IMG:1.jpg]",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "[IMG:2.jpg]",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "[IMG:3.jpg]",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0007"
+    },
+    {
+      "id": "1fb18532-1e95-43a8-be60-0105d1dd2928",
+      "number": 26,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following reaction :\n\\(  C_{3}H_{8}(g)+5O_{2}(g)\\rightarrow3CO_{2}(g)+4H_{2}O(l) \\)\n\nIf  \\( 100 \\, cm^{3} \\)  of  \\( C_{3}H_{8}(g) \\)  burns in  \\( 600 \\, cm^{3} \\)  of  \\( O_{2}(g) \\) , what would be the volume of the resulting gaseous mixture at room conditions?\n(Molar volume of gas at room conditions = 24 dm \\( ^{3} \\) )",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( 800 \\, cm^{3} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( 700 \\, cm^{3} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( 400 \\, cm^{3} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( 300 \\, cm^{3} \\)",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0007"
+    },
+    {
+      "id": "c304bc28-c2a5-4088-9d9a-cad8d49c6fc3",
+      "number": 27,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following equilibrium system at room conditions :\n\\( \\mathrm{Fe}^{3+}(\\mathrm{aq})+\\mathrm{SCN}^{-}(\\mathrm{aq})\\rightleftharpoons\\mathrm{Fe}(\\mathrm{SCN})^{2+}(\\mathrm{aq}) \\)\n\nA small amount of  \\( \\mathrm{Fe}(\\mathrm{NO}_{3})_{3}(\\mathrm{s}) \\)  is added to the equilibrium mixture, and a new equilibrium is finally attained at the same conditions. In comparison with the original equilibrium, which of the following combinations concerning this new equilibrium is correct?\nRate of backward reaction   |    Concentration of Fe(SCN) \\( ^{2+} \\) (aq)",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "decreased    |    unchanged",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "decreased    |    increased",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "increased    |    unchanged",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "increased    |    increased",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0007"
+    },
+    {
+      "id": "0e1b06ba-15ff-4e68-8849-e3b06acd2c1a",
+      "number": 28,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 9: Rate of Reaction"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following chemical reactions is the fastest at room conditions?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( \\mathrm{AgNO_{3}(aq) + NaCl(aq) \\longrightarrow AgCl(s) + NaNO_{3}(aq)} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( \\mathrm{Zn(s) + 2HCl(aq) \\longrightarrow ZnCl_{2}(aq) + H_{2}(g)} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( 4\\mathrm{Fe(s)} + 3\\mathrm{O_{2}(g)} \\longrightarrow 2\\mathrm{Fe_{2}O_{3}(s)} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( \\mathrm{CH_{4}(g) + Br_{2}(in\\ organic\\ solvent)\\xrightarrow{light}CH_{3}Br(g) + HBr(g)} \\)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0008"
+    },
+    {
+      "id": "79f57d1e-e081-481a-85e4-091c10541b1e",
+      "number": 29,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the information below :\nChemical reaction    |    Equilibrium constant at  \\( 500^{\\circ} \\)C\nHI(g)  \\( \\rightleftharpoons{} \\)  \\(\\frac{1}{2}\\)H \\( _{2} \\) (g) +  \\( \\frac{1}{2} \\)I\\( _{2} \\) (g)    |    \\( K_{1} \\)\n\\( H_{2}(g) + I_{2}(g) \\rightleftharpoons{} \\)  \\(2HI(g)\\)  |    \\( K_{2} \\)\n\nWhich of the following mathematical relationships concerning  \\( K_{1} \\)  and  \\( K_{2} \\)  is correct?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( K_{1} = \\frac{1}{K_{2}} \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "\\( K_{1} = \\frac{1}{K_{2}^{2}} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( K_{2} = \\frac{1}{2K_{1}} \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "\\( K_{2} = \\frac{1}{K_{1}^{2}} \\)",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0008"
+    },
+    {
+      "id": "f4482688-e106-4319-8e68-99040b9569c7",
+      "number": 30,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following pairs of substances would NOT react with each other?",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "ethene and hydrogen chloride",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "propan-1-ol and phosphorus trichloride",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "propene and hydrogen in the presence of platinum",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "methylpropan-2-ol and acidified potassium dichromate solution",
+          "image": null
+        }
+      ],
+      "answer": "D",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0008"
+    },
+    {
+      "id": "4eafa83a-c012-4817-941c-81fd332329d6",
+      "number": 31,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "What is W in the following conversion?\n[IMG:0.jpg]",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "\\( LiAlH_{4} \\) , dry ether; then  \\( H^{+}(aq) \\)",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "concentrated  \\( H_{2}SO_{4} \\)",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "\\( NaBH_{4}(aq) \\)",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "KOH(aq)",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0008"
+    },
+    {
+      "id": "56dae679-ada8-4bc9-9a9e-dd430a72bccd",
+      "number": 32,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 10: Chemical Equilibrium"
+      ],
+      "score": 1.0,
+      "question_text": "Consider the following reversible reaction :\n\\( \\mathbf{X}(\\mathbf{a}\\mathbf{q})\\rightleftharpoons{}\\mathbf{Y}(\\mathbf{a}\\mathbf{q}) \\)\n\nAt a fixed temperature, the system initially contains a small amount of X(aq) only. When the system attains chemical equilibrium, the mole ratio of X to Y in the mixture is 1:3. Which of the following statements is / are correct?\n\n(1) The reaction quotient  \\( Q_{c} \\)  of the system at any moment before equilibrium is greater than the equilibrium constant  \\( K_{c} \\)  for the reaction.\n(2) If the experiment is repeated at the same temperature with the system initially containing a small amount of Y(aq) only, the mole ratio of X to Y in the equilibrium mixture is 1:3.\n(3) At equilibrium, the rate of backward reaction is 3 times the rate of forward reaction.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "B",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0009"
+    },
+    {
+      "id": "3dda0df1-c216-4490-a8b1-002c5414065c",
+      "number": 33,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 12: Patterns in the Chemical World"
+      ],
+      "score": 1.0,
+      "question_text": "Which of the following statements concerning the elements across the second period of the Periodic Table going from left to right is / are correct?\n\n(1) The melting point of carbon is the highest among these elements.\n(2) The electrical conductivity of lithium is the highest among these elements.\n(3) The bond type of these elements changes from ionic bonding to covalent bonding.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0009"
+    },
+    {
+      "id": "8b655620-67c4-4a81-9c75-05496984991b",
+      "number": 34,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "An organic compound has the following structure :\n[IMG:0.jpg]\n\nWhich of the following statements concerning this compound is / are correct?\n\n(1) It is soluble in water.\n(2) It has an ester group.\n(3) Its empirical formula is  \\( CH_{2}O \\) .",
+      "question_images": [
+        "0.jpg"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(2) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(2) and (3) only",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0009"
+    },
+    {
+      "id": "41674f82-9b62-4675-b6ef-abee56ae36c7",
+      "number": 35,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 5: Fossil Fuels and Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "P and Q are polyesters made from the same monomers. The average number of repeating units in P is 5 000 and that in Q is 80 000. Which of the following statements are correct?\n\n(1) Q melts at a higher temperature than P.\n(2) The average molecular mass of Q is greater than that of P.\n(3) The number of carbon atoms in a repeating unit of Q is greater than that of P.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "(1) and (2) only",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "(1) and (3) only",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "(2) and (3) only",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "(1), (2) and (3)",
+          "image": null
+        }
+      ],
+      "answer": "A",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0010"
+    },
+    {
+      "id": "4572dc98-4c3a-4ca3-9011-51c9d6321b49",
+      "number": 36,
+      "type": "MCQ",
+      "paper": "1A",
+      "year": null,
+      "source": null,
+      "subject": "Chemistry",
+      "topics": [
+        "Topic 11: Chemistry of Carbon Compounds"
+      ],
+      "score": 1.0,
+      "question_text": "1st statement : \\( CH_{3}CH_{2}CH_{2}CH_{2}COO^{-}Na^{+} \\)  is a soap.\n2nd statement : \\( CH_{3}CH_{2}CH_{2}CH_{2}COOH^{-}Na^{+} \\)  contains a hydrophilic \\(-COO^{-}\\) group.",
+      "question_images": [],
+      "options": [
+        {
+          "label": "A",
+          "text": "Both statements are true and the 2nd statement is a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "B",
+          "text": "Both statements are true but the 2nd statement is NOT a correct explanation of the 1st statement.",
+          "image": null
+        },
+        {
+          "label": "C",
+          "text": "The 1st statement is false but the 2nd statement is true.",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "Both statements are false.",
+          "image": null
+        }
+      ],
+      "answer": "C",
+      "source_folder": "C:\\Users\\user\\Desktop\\outputocr\\Scanned_dse2023chempaper1mc\\page_0010"
+    }
+  ]
+}

@@ -173,9 +173,9 @@
         "Topic 3: Metals"
       ],
       "score": 1.0,
-      "question_text": "Consider the following experimental set-up :\n[IMG:0.jpg]\n\nWhat can be observed after the circuit is closed for a period of time?",
+      "question_text": "Consider the following experimental set-up :\n[IMG:q5_stem_0.jpg]\n\nWhat can be observed after the circuit is closed for a period of time?",
       "question_images": [
-        "0.jpg"
+        "q5_stem_0.jpg"
       ],
       "options": [
         {
@@ -409,11 +409,11 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "Consider the following three chemical cells :\n[IMG:0.jpg] [IMG:1.jpg]\n[IMG:2.jpg]\n\nWhich of the following correctly shows the descending order of reactivity of the three metals P, Q and R?",
+      "question_text": "Consider the following three chemical cells :\n[IMG:q11_stem_0.jpg] [IMG:q11_stem_1.jpg]\n[IMG:q11_stem_2.jpg]\n\nWhich of the following correctly shows the descending order of reactivity of the three metals P, Q and R?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg"
+        "q11_stem_0.jpg",
+        "q11_stem_1.jpg",
+        "q11_stem_2.jpg"
       ],
       "options": [
         {
@@ -803,9 +803,9 @@
         "Topic 3: Metals"
       ],
       "score": 1.0,
-      "question_text": "Which of the following set-ups can be used to prevent an underground iron pipe from rusting?\n[IMG:0.jpg]",
+      "question_text": "Which of the following set-ups can be used to prevent an underground iron pipe from rusting?\n[IMG:q21_stem_0.jpg]",
       "question_images": [
-        "0.jpg"
+        "q21_stem_0.jpg"
       ],
       "options": [
         {
@@ -961,30 +961,30 @@
       "score": 1.0,
       "question_text": "In order to investigate the decomposition of  \\( H_{2}O_{2}(aq) \\)  to form  \\( O_{2}(g) \\) , two experiments were carried out with  \\( H_{2}O_{2}(aq) \\)  in the presence of the same amount of a suitable catalyst at room conditions. The concentrations and volumes of  \\( H_{2}O_{2}(aq) \\)  used are shown below:\n<table><tr><td>Experiment</td><td>Concentration of  \\( \\mathrm{H}_{2}\\mathrm{O}_{2}(\\mathrm{aq})/\\mathrm{M} \\)</td><td>Volume of  \\( \\mathrm{H}_{2}\\mathrm{O}_{2}(\\mathrm{aq})/\\text{cm}^{3} \\)</td></tr><tr><td>I</td><td>1.0</td><td>25</td></tr><tr><td>II</td><td>0.5</td><td>50</td></tr></table>\n\nWhich of the following graphs correctly shows the variation in the volume of  \\( O_{2}(g) \\)  evolved with time in the above two experiments?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q25_stem_0.jpg",
+        "q25_stem_1.jpg",
+        "q25_stem_2.jpg",
+        "q25_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q25_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q25_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q25_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q25_stem_3.jpg]",
           "image": null
         }
       ],
@@ -1198,9 +1198,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "What is W in the following conversion?\n[IMG:0.jpg]",
+      "question_text": "What is W in the following conversion?\n[IMG:q31_stem_0.jpg]",
       "question_images": [
-        "0.jpg"
+        "q31_stem_0.jpg"
       ],
       "options": [
         {
@@ -1317,9 +1317,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "An organic compound has the following structure :\n[IMG:0.jpg]\n\nWhich of the following statements concerning this compound is / are correct?\n\n(1) It is soluble in water.\n(2) It has an ester group.\n(3) Its empirical formula is  \\( CH_{2}O \\) .",
+      "question_text": "An organic compound has the following structure :\n[IMG:q34_stem_0.jpg]\n\nWhich of the following statements concerning this compound is / are correct?\n\n(1) It is soluble in water.\n(2) It has an ester group.\n(3) Its empirical formula is  \\( CH_{2}O \\) .",
       "question_images": [
-        "0.jpg"
+        "q34_stem_0.jpg"
       ],
       "options": [
         {

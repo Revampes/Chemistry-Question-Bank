@@ -56,9 +56,9 @@
         "Topic 3: Metals"
       ],
       "score": 1.0,
-      "question_text": "Consider the following experimental set-up :\n[IMG:0.jpg]\n\nWhich of the following statements is correct when an electric current passes through the circuit?",
+      "question_text": "Consider the following experimental set-up :\n[IMG:q2_stem_0.jpg]\n\nWhich of the following statements is correct when an electric current passes through the circuit?",
       "question_images": [
-        "0.jpg"
+        "q2_stem_0.jpg"
       ],
       "options": [
         {
@@ -293,10 +293,10 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Consider two compounds with their structures shown below :\n[IMG:0.jpg]  [IMG:1.jpg]  [IMG:2.jpg]\n\nWhich of the following statements is correct?",
+      "question_text": "Consider two compounds with their structures shown below :\n[IMG:q8_stem_0.jpg]  [IMG:q8_stem_1.jpg]  [IMG:q8_stem_2.jpg]\n\nWhich of the following statements is correct?",
       "question_images": [
-        "0.jpg",
-        "1.jpg"
+        "q8_stem_0.jpg",
+        "q8_stem_1.jpg"
       ],
       "options": [
         {
@@ -530,9 +530,9 @@
         "Topic 4: Acids and Bases"
       ],
       "score": 1.0,
-      "question_text": "Based on the experimental set-up in the diagram below, after 8.0 g of sodium nitrate solid is completely dissolved in 50 cm\\( ^{3} \\) of water, the temperature drops by 6\\({}^{\\circ} \\)C.\n[IMG:0.jpg]\n\nWhich of the following would give a drop of temperature by  \\( 3^{\\circ} \\)C under the same experimental conditions?",
+      "question_text": "Based on the experimental set-up in the diagram below, after 8.0 g of sodium nitrate solid is completely dissolved in 50 cm\\( ^{3} \\) of water, the temperature drops by 6\\({}^{\\circ} \\)C.\n[IMG:q14_stem_0.jpg]\n\nWhich of the following would give a drop of temperature by  \\( 3^{\\circ} \\)C under the same experimental conditions?",
       "question_images": [
-        "0.jpg"
+        "q14_stem_0.jpg"
       ],
       "options": [
         {
@@ -766,11 +766,11 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of a portion of a polymer is shown below :\n[IMG:0.jpg]\n\nWhich of the following statements concerning the polymer is / are correct?\n\n(1) [IMG:1.jpg] is the repeating unit of it.\n\n(2) [IMG:2.jpg] is a monomer of it.\n\n(3) HOCH₂COOH is a monomer of it.",
+      "question_text": "The structure of a portion of a polymer is shown below :\n[IMG:q20_stem_0.jpg]\n\nWhich of the following statements concerning the polymer is / are correct?\n\n(1) [IMG:q20_stem_1.jpg] is the repeating unit of it.\n\n(2) [IMG:q20_stem_2.jpg] is a monomer of it.\n\n(3) HOCH₂COOH is a monomer of it.",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg"
+        "q20_stem_0.jpg",
+        "q20_stem_1.jpg",
+        "q20_stem_2.jpg"
       ],
       "options": [
         {
@@ -887,10 +887,10 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "Consider the following two electrolytic cells :\n[IMG:0.jpg]   [IMG:1.jpg]\nDuring electrolysis, which of the following would occur in Electrolytic cell 1 but not in Electrolytic cell 2?\n\n(1) Gas bubbles are given out.\n(2) The blue solution becomes paler.\n(3) A reddish brown solid is deposited.",
+      "question_text": "Consider the following two electrolytic cells :\n[IMG:q23_stem_0.jpg]   [IMG:q23_stem_1.jpg]\nDuring electrolysis, which of the following would occur in Electrolytic cell 1 but not in Electrolytic cell 2?\n\n(1) Gas bubbles are given out.\n(2) The blue solution becomes paler.\n(3) A reddish brown solid is deposited.",
       "question_images": [
-        "0.jpg",
-        "1.jpg"
+        "q23_stem_0.jpg",
+        "q23_stem_1.jpg"
       ],
       "options": [
         {
@@ -1009,30 +1009,30 @@
       "score": 1.0,
       "question_text": "Which of the following graphs best represents the variation of  \\( [Br_{2}(aq)] \\)  in the reaction mixture of conical flask B with time?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q26_stem_0.jpg",
+        "q26_stem_1.jpg",
+        "q26_stem_2.jpg",
+        "q26_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q26_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q26_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q26_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q26_stem_3.jpg]",
           "image": null
         }
       ],
@@ -1168,7 +1168,7 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Consider the information shown in the table below :\n[IMG:0.jpg]\n\nWhich of the following liquids have identical boiling point?",
+      "question_text": "Consider the information shown in the table below :\n[IMG:q30_stem_0.jpg]\n\nWhich of the following liquids have identical boiling point?",
       "question_images": [],
       "options": [
         {
@@ -1363,9 +1363,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The diagram below shows the structure of a compound.\n[IMG:0.jpg]\n\nWhich of the following statements concerning the compound are correct?\n\n(1) It has an amide group.\n(2) Its structure has only one chiral carbon.\n(3) It can be converted to an alcohol by using an appropriate reducing agent.",
+      "question_text": "The diagram below shows the structure of a compound.\n[IMG:q35_stem_0.jpg]\n\nWhich of the following statements concerning the compound are correct?\n\n(1) It has an amide group.\n(2) Its structure has only one chiral carbon.\n(3) It can be converted to an alcohol by using an appropriate reducing agent.",
       "question_images": [
-        "0.jpg"
+        "q35_stem_0.jpg"
       ],
       "options": [
         {

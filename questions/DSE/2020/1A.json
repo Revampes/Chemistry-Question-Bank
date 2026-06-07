@@ -290,9 +290,9 @@
         "Topic 3: Metals"
       ],
       "score": 1.0,
-      "question_text": "Consider the following experimental set-up :\n[IMG:0.jpg]\n\nIn which of the following combinations would the iron nail rust the fastest?\n\nX    |    Y",
+      "question_text": "Consider the following experimental set-up :\n[IMG:q8_stem_0.jpg]\n\nIn which of the following combinations would the iron nail rust the fastest?\n\nX    |    Y",
       "question_images": [
-        "0.jpg"
+        "q8_stem_0.jpg"
       ],
       "options": [
         {
@@ -331,9 +331,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "Refer to the following chemical cell :\n[IMG:1.jpg]\n\nWhich of the following statements is correct?",
+      "question_text": "Refer to the following chemical cell :\n[IMG:q9_stem_0.jpg]\n\nWhich of the following statements is correct?",
       "question_images": [
-        "1.jpg"
+        "q9_stem_0.jpg"
       ],
       "options": [
         {
@@ -372,7 +372,7 @@
         "Topic 8: Chemical Reactions and Energy"
       ],
       "score": 1.0,
-      "question_text": "Refer to the standard enthalpy changes of combustion below :\n[IMG:1.jpg]\n\nWhat is the standard enthalpy change of the following reaction ?\n[IMG:2.jpg]",
+      "question_text": "Refer to the standard enthalpy changes of combustion below :\n[IMG:q10_stem_0.jpg]\n\nWhat is the standard enthalpy change of the following reaction ?\n[IMG:q10_stem_1.jpg]",
       "question_images": [],
       "options": [
         {
@@ -411,9 +411,9 @@
         "Topic 4: Acids and Bases"
       ],
       "score": 1.0,
-      "question_text": "A reaction occurs when water is dropped into the mixture in the set-up below. A colourless gas is given out.\n[IMG:0.jpg]\n\nWhat is the role of water in this reaction?",
+      "question_text": "A reaction occurs when water is dropped into the mixture in the set-up below. A colourless gas is given out.\n[IMG:q11_stem_0.jpg]\n\nWhat is the role of water in this reaction?",
       "question_images": [
-        "0.jpg"
+        "q11_stem_0.jpg"
       ],
       "options": [
         {
@@ -530,9 +530,9 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The set-up below is used to show that hexane ( \\( C_{6}H_{14} \\) ) contains carbon and hydrogen. What are X and Y?\n[IMG:0.jpg]\n\nX    |    Y",
+      "question_text": "The set-up below is used to show that hexane ( \\( C_{6}H_{14} \\) ) contains carbon and hydrogen. What are X and Y?\n[IMG:q14_stem_0.jpg]\n\nX    |    Y",
       "question_images": [
-        "0.jpg"
+        "q14_stem_0.jpg"
       ],
       "options": [
         {
@@ -610,9 +610,9 @@
         "Topic 4: Acids and Bases"
       ],
       "score": 1.0,
-      "question_text": "The initial burette reading in a titration is  \\( 4.80 \\, cm^{3} \\) , and the corresponding final burette reading can be found from the diagram below :\n[IMG:1.jpg]\n\nWhat is the volume of the reagent used in the titration?",
+      "question_text": "The initial burette reading in a titration is  \\( 4.80 \\, cm^{3} \\) , and the corresponding final burette reading can be found from the diagram below :\n[IMG:q16_stem_0.jpg]\n\nWhat is the volume of the reagent used in the titration?",
       "question_images": [
-        "1.jpg"
+        "q16_stem_0.jpg"
       ],
       "options": [
         {
@@ -768,9 +768,9 @@
         "Topic 6: Microscopic World II"
       ],
       "score": 1.0,
-      "question_text": "Refer to the sketch below :\n[IMG:0.jpg]\n\nWhich of the following can explain the variation of the boiling points of the hydrogen halides?\n\n(1) The boiling point of HF is higher than that of HCl because the hydrogen bonds between HF molecules are stronger than the van der Waals' forces between HCl molecules.\n(2) The boiling point of HI is higher than that of HBr because HI molecules are more polar than HBr molecules.\n(3) HCl has the lowest boiling point because it has the smallest molecular size.",
+      "question_text": "Refer to the sketch below :\n[IMG:q20_stem_0.jpg]\n\nWhich of the following can explain the variation of the boiling points of the hydrogen halides?\n\n(1) The boiling point of HF is higher than that of HCl because the hydrogen bonds between HF molecules are stronger than the van der Waals' forces between HCl molecules.\n(2) The boiling point of HI is higher than that of HBr because HI molecules are more polar than HBr molecules.\n(3) HCl has the lowest boiling point because it has the smallest molecular size.",
       "question_images": [
-        "0.jpg"
+        "q20_stem_0.jpg"
       ],
       "options": [
         {
@@ -887,11 +887,11 @@
         "Topic 1: Planet Earth"
       ],
       "score": 1.0,
-      "question_text": "Which of the following hazard warning labels should be displayed on a bottle containing methanol?\n\n(1) [IMG:0.jpg] (2) [IMG:1.jpg] (3) [IMG:2.jpg]\n",
+      "question_text": "Which of the following hazard warning labels should be displayed on a bottle containing methanol?\n\n(1) [IMG:q23_stem_0.jpg] (2) [IMG:q23_stem_1.jpg] (3) [IMG:q23_stem_2.jpg]\n",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg"
+        "q23_stem_0.jpg",
+        "q23_stem_1.jpg",
+        "q23_stem_2.jpg"
       ],
       "options": [
         {
@@ -1049,30 +1049,30 @@
       "score": 1.0,
       "question_text": "Which of the following alkanols can form a ketone by warming with acidified sodium dichromate solution?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q27_stem_0.jpg",
+        "q27_stem_1.jpg",
+        "q27_stem_2.jpg",
+        "q27_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q27_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q27_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q27_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q27_stem_3.jpg]",
           "image": null
         }
       ],
@@ -1130,33 +1130,33 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Refer to the following conversions :\n[IMG:0.jpg]\n\nWhich of the following is a possible structure of Z?",
+      "question_text": "Refer to the following conversions :\n[IMG:q29_stem_0.jpg]\n\nWhich of the following is a possible structure of Z?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg",
-        "4.jpg"
+        "q29_stem_0.jpg",
+        "q29_stem_1.jpg",
+        "q29_stem_2.jpg",
+        "q29_stem_3.jpg",
+        "q29_stem_4.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q29_stem_1.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q29_stem_2.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q29_stem_3.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:4.jpg]",
+          "text": "[IMG:q29_stem_4.jpg]",
           "image": null
         }
       ],
@@ -1175,9 +1175,9 @@
         "Topic 12: Patterns in the Chemical World"
       ],
       "score": 1.0,
-      "question_text": "The sketch below shows the melting points of ten consecutive elements in the second and third periods of the Periodic Table, arranged in the order of increasing atomic numbers. Sodium is one of these ten elements. Which of W, X, Y or Z may represent sodium?\n[IMG:5.jpg]",
+      "question_text": "The sketch below shows the melting points of ten consecutive elements in the second and third periods of the Periodic Table, arranged in the order of increasing atomic numbers. Sodium is one of these ten elements. Which of W, X, Y or Z may represent sodium?\n[IMG:q30_stem_0.jpg]",
       "question_images": [
-        "5.jpg"
+        "q30_stem_0.jpg"
       ],
       "options": [
         {
@@ -1218,30 +1218,30 @@
       "score": 1.0,
       "question_text": "Which of the following pairs of reagents would NOT react with each other?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q31_stem_0.jpg",
+        "q31_stem_1.jpg",
+        "q31_stem_2.jpg",
+        "q31_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q31_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q31_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q31_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q31_stem_3.jpg]",
           "image": null
         }
       ],
@@ -1260,14 +1260,14 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Which of the following pairs of compounds are isomers?\n(1) [IMG:4.jpg] and [IMG:5.jpg]\n\n(2) [IMG:6.jpg] and [IMG:7.jpg]\n\n(3) [IMG:8.jpg] and [IMG:9.jpg]",
+      "question_text": "Which of the following pairs of compounds are isomers?\n(1) [IMG:q32_stem_0.jpg] and [IMG:q32_stem_1.jpg]\n\n(2) [IMG:q32_stem_2.jpg] and [IMG:q32_stem_3.jpg]\n\n(3) [IMG:q32_stem_4.jpg] and [IMG:q32_stem_5.jpg]",
       "question_images": [
-        "4.jpg",
-        "5.jpg",
-        "6.jpg",
-        "7.jpg",
-        "8.jpg",
-        "9.jpg"
+        "q32_stem_0.jpg",
+        "q32_stem_1.jpg",
+        "q32_stem_2.jpg",
+        "q32_stem_3.jpg",
+        "q32_stem_4.jpg",
+        "q32_stem_5.jpg"
       ],
       "options": [
         {
@@ -1384,9 +1384,9 @@
         "Topic 9: Rate of Reaction"
       ],
       "score": 1.0,
-      "question_text": "Refer to the following set-up :\n[IMG:0.jpg]\n\n(1) \\(MgO(s) + 2HCl(aq) → MgCl_{2}(aq) + H_{2}O(l)\\)\n(2)  \\( Na_{2}S_{2}O_{3}(aq) + 2HCl(aq) \\rightarrow S(s) + SO_{2}(g) + H_{2}O(l) + 2NaCl(aq) \\)\n(3)  \\( \\mathrm{Mg(s) + ZnSO_{4}(aq) \\rightarrow MgSO_{4}(aq) + Zn(s)} \\)\n\nWhich of the following reactions can the effect of concentration on rate be studied by the above set-up?",
+      "question_text": "Refer to the following set-up :\n[IMG:q35_stem_0.jpg]\n\n(1) \\(MgO(s) + 2HCl(aq) → MgCl_{2}(aq) + H_{2}O(l)\\)\n(2)  \\( Na_{2}S_{2}O_{3}(aq) + 2HCl(aq) \\rightarrow S(s) + SO_{2}(g) + H_{2}O(l) + 2NaCl(aq) \\)\n(3)  \\( \\mathrm{Mg(s) + ZnSO_{4}(aq) \\rightarrow MgSO_{4}(aq) + Zn(s)} \\)\n\nWhich of the following reactions can the effect of concentration on rate be studied by the above set-up?",
       "question_images": [
-        "0.jpg"
+        "q35_stem_0.jpg"
       ],
       "options": [
         {

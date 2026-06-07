@@ -101,22 +101,22 @@
         {
           "label": "A",
           "text": null,
-          "image": "0.jpg"
+          "image": "q3_optA.jpg"
         },
         {
           "label": "B",
           "text": null,
-          "image": "1.jpg"
+          "image": "q3_optB.jpg"
         },
         {
           "label": "C",
           "text": null,
-          "image": "2.jpg"
+          "image": "q3_optC.jpg"
         },
         {
           "label": "D",
           "text": null,
-          "image": "3.jpg"
+          "image": "q3_optD.jpg"
         }
       ],
       "answer": "D",
@@ -485,10 +485,10 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The reaction below involves several steps.\n\\( \\text{CH}_4(\\text{g}) + \\text{Cl}_2(\\text{g}) \\xrightarrow{\\text{sunlight}} \\text{CH}_3\\text{Cl}(\\text{g}) + \\text{HCl}(\\text{g})  \\)\nNote :\n[IMG:0.jpg]\n\\(CH_{3} \\bullet\\) =\n[IMG:1.jpg]\n\nWhich of the following steps can lead to a termination of the reaction?",
+      "question_text": "The reaction below involves several steps.\n\\( \\text{CH}_4(\\text{g}) + \\text{Cl}_2(\\text{g}) \\xrightarrow{\\text{sunlight}} \\text{CH}_3\\text{Cl}(\\text{g}) + \\text{HCl}(\\text{g})  \\)\nNote :\n[IMG:q13_stem_0.jpg]\n\\(CH_{3} \\bullet\\) =\n[IMG:q13_stem_1.jpg]\n\nWhich of the following steps can lead to a termination of the reaction?",
       "question_images": [
-        "0.jpg",
-        "1.jpg"
+        "q13_stem_0.jpg",
+        "q13_stem_1.jpg"
       ],
       "options": [
         {
@@ -527,9 +527,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "A polymer has the following structure :\n[IMG:2.jpg]\n\nWhich of the following statements concerning the polymer is correct?",
+      "question_text": "A polymer has the following structure :\n[IMG:q14_stem_0.jpg]\n\nWhich of the following statements concerning the polymer is correct?",
       "question_images": [
-        "2.jpg"
+        "q14_stem_0.jpg"
       ],
       "options": [
         {
@@ -568,9 +568,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The diagram below shows an apparatus :\n[IMG:0.jpg]\n\nWhich of the following mixtures can be separated by this apparatus?",
+      "question_text": "The diagram below shows an apparatus :\n[IMG:q15_stem_0.jpg]\n\nWhich of the following mixtures can be separated by this apparatus?",
       "question_images": [
-        "0.jpg"
+        "q15_stem_0.jpg"
       ],
       "options": [
         {
@@ -765,11 +765,11 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Which of the following hazard warning labels should be displayed on a bottle containing propan-2-ol?\n\n(1) [IMG:0.jpg]\n\n(2) [IMG:1.jpg]\n\n(3) [IMG:2.jpg]\n",
+      "question_text": "Which of the following hazard warning labels should be displayed on a bottle containing propan-2-ol?\n\n(1) [IMG:q20_stem_0.jpg]\n\n(2) [IMG:q20_stem_1.jpg]\n\n(3) [IMG:q20_stem_2.jpg]\n",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg"
+        "q20_stem_0.jpg",
+        "q20_stem_1.jpg",
+        "q20_stem_2.jpg"
       ],
       "options": [
         {
@@ -886,9 +886,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "Consider the following chemical cell :\n[IMG:0.jpg]\nWhich of the following statements are correct?\n\n(1) The pH of the solution in compartment A decreases gradually.\n(2) Hydrogen gas in compartment B acts as a reducing agent.\n(3) The equation for the overall reaction is:  \\( H^{+}(aq) + OH^{-}(aq) \\rightarrow H_{2}O(l) \\)",
+      "question_text": "Consider the following chemical cell :\n[IMG:q23_stem_0.jpg]\nWhich of the following statements are correct?\n\n(1) The pH of the solution in compartment A decreases gradually.\n(2) Hydrogen gas in compartment B acts as a reducing agent.\n(3) The equation for the overall reaction is:  \\( H^{+}(aq) + OH^{-}(aq) \\rightarrow H_{2}O(l) \\)",
       "question_images": [
-        "0.jpg"
+        "q23_stem_0.jpg"
       ],
       "options": [
         {
@@ -966,9 +966,9 @@
         "Topic 9: Rate of Reaction"
       ],
       "score": 1.0,
-      "question_text": "100 cm \\( ^{3} \\)  of 1.0 M HCl(aq) reacts with excess zinc granules giving curve A in the graph below.\n[IMG:0.jpg]\n\nWhich of the following changes may give curve B?",
+      "question_text": "100 cm \\( ^{3} \\)  of 1.0 M HCl(aq) reacts with excess zinc granules giving curve A in the graph below.\n[IMG:q25_stem_0.jpg]\n\nWhich of the following changes may give curve B?",
       "question_images": [
-        "0.jpg"
+        "q25_stem_0.jpg"
       ],
       "options": [
         {
@@ -1048,30 +1048,30 @@
       "score": 1.0,
       "question_text": "Which of the following polymers is commonly used to make drainage pipes?",
       "question_images": [
-        "1.jpg",
-        "2.jpg",
-        "3.jpg",
-        "4.jpg"
+        "q27_stem_0.jpg",
+        "q27_stem_1.jpg",
+        "q27_stem_2.jpg",
+        "q27_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q27_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q27_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q27_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:4.jpg]",
+          "text": "[IMG:q27_stem_3.jpg]",
           "image": null
         }
       ],
@@ -1168,10 +1168,10 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Consider the following conversion :\n[IMG:0.jpg]   \\(\\xrightarrow{\\text{Step(I)}}\\)   intermediate compound   \\(\\xrightarrow{\\text{Step(II)}}\\)   [IMG:1.jpg]\n\nWhich of the following combinations can achieve the above conversion?\n\nReagent used in Step (I)    |    Reagent used in Step (II)",
+      "question_text": "Consider the following conversion :\n[IMG:q30_stem_0.jpg]   \\(\\xrightarrow{\\text{Step(I)}}\\)   intermediate compound   \\(\\xrightarrow{\\text{Step(II)}}\\)   [IMG:q30_stem_1.jpg]\n\nWhich of the following combinations can achieve the above conversion?\n\nReagent used in Step (I)    |    Reagent used in Step (II)",
       "question_images": [
-        "0.jpg",
-        "1.jpg"
+        "q30_stem_0.jpg",
+        "q30_stem_1.jpg"
       ],
       "options": [
         {
@@ -1366,9 +1366,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "An organic compound has the following structure :\n[IMG:0.jpg]\nWhich of the following statements concerning this compound are correct?\n\n(1) It has an ester group.\n(2) It contains at least one chiral centre.\n(3) It reacts with acidified sodium dichromate solution to form a ketone.",
+      "question_text": "An organic compound has the following structure :\n[IMG:q35_stem_0.jpg]\nWhich of the following statements concerning this compound are correct?\n\n(1) It has an ester group.\n(2) It contains at least one chiral centre.\n(3) It reacts with acidified sodium dichromate solution to form a ketone.",
       "question_images": [
-        "0.jpg"
+        "q35_stem_0.jpg"
       ],
       "options": [
         {

@@ -56,9 +56,9 @@
         "Topic 2: Microscopic World I"
       ],
       "score": 1.0,
-      "question_text": "The set-up of an experiment is shown below:\n[IMG:0.jpg]\n\nWhat can be observed after the circuit is closed for a period of time?",
+      "question_text": "The set-up of an experiment is shown below:\n[IMG:q2_stem_0.jpg]\n\nWhat can be observed after the circuit is closed for a period of time?",
       "question_images": [
-        "0.jpg"
+        "q2_stem_0.jpg"
       ],
       "options": [
         {
@@ -253,9 +253,9 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The set-up of an experiment is shown below :\n[IMG:0.jpg]\n\nWhich of the following statements is INCORRECT?",
+      "question_text": "The set-up of an experiment is shown below :\n[IMG:q7_stem_0.jpg]\n\nWhich of the following statements is INCORRECT?",
       "question_images": [
-        "0.jpg"
+        "q7_stem_0.jpg"
       ],
       "options": [
         {
@@ -372,33 +372,33 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "A part of the structure of a polymer is shown below :\n[IMG:0.jpg]\n\nWhich of the following can be a monomer of this polymer?",
+      "question_text": "A part of the structure of a polymer is shown below :\n[IMG:q10_stem_0.jpg]\n\nWhich of the following can be a monomer of this polymer?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg",
-        "4.jpg"
+        "q10_stem_0.jpg",
+        "q10_stem_1.jpg",
+        "q10_stem_2.jpg",
+        "q10_stem_3.jpg",
+        "q10_stem_4.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q10_stem_1.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q10_stem_2.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q10_stem_3.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:4.jpg]",
+          "text": "[IMG:q10_stem_4.jpg]",
           "image": null
         }
       ],
@@ -417,9 +417,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "Consider the following electrolytic cells :\n[IMG:5.jpg]\n\nWhat would happen during electrolysis?",
+      "question_text": "Consider the following electrolytic cells :\n[IMG:q11_stem_0.jpg]\n\nWhat would happen during electrolysis?",
       "question_images": [
-        "5.jpg"
+        "q11_stem_0.jpg"
       ],
       "options": [
         {
@@ -458,9 +458,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "Which of the following statements concerning the fuel cell below that can form water is INCORRECT?\n\n[IMG:6.jpg]",
+      "question_text": "Which of the following statements concerning the fuel cell below that can form water is INCORRECT?\n\n[IMG:q12_stem_0.jpg]",
       "question_images": [
-        "6.jpg"
+        "q12_stem_0.jpg"
       ],
       "options": [
         {
@@ -694,10 +694,10 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Consider the following two compounds :\n[IMG:0.jpg]    [IMG:1.jpg]\n\nWhich of the following statements is / are correct?\n\n(1) They are both soluble in water.\n(2) They have the same empirical formula.\n(3) They are in the same homologous series.",
+      "question_text": "Consider the following two compounds :\n[IMG:q18_stem_0.jpg]    [IMG:q18_stem_1.jpg]\n\nWhich of the following statements is / are correct?\n\n(1) They are both soluble in water.\n(2) They have the same empirical formula.\n(3) They are in the same homologous series.",
       "question_images": [
-        "0.jpg",
-        "1.jpg"
+        "q18_stem_0.jpg",
+        "q18_stem_1.jpg"
       ],
       "options": [
         {
@@ -814,9 +814,9 @@
         "Topic 4: Acids and Bases"
       ],
       "score": 1.0,
-      "question_text": "The diagram below shows a common glass apparatus :\n[IMG:0.jpg]\n\nWhich of the following statements concerning the transfer of an acid using this apparatus are INCORRECT?\n\n(1) The bulb should be firmly held in the hand when being filled with acid.\n(2) Exactly 20.00 cm\\(^{3} \\) of acid can be transferred using this apparatus.\n(3) The apparatus should first be rinsed by distilled water, then immediately followed by the transfer of acid.",
+      "question_text": "The diagram below shows a common glass apparatus :\n[IMG:q21_stem_0.jpg]\n\nWhich of the following statements concerning the transfer of an acid using this apparatus are INCORRECT?\n\n(1) The bulb should be firmly held in the hand when being filled with acid.\n(2) Exactly 20.00 cm\\(^{3} \\) of acid can be transferred using this apparatus.\n(3) The apparatus should first be rinsed by distilled water, then immediately followed by the transfer of acid.",
       "question_images": [
-        "0.jpg"
+        "q21_stem_0.jpg"
       ],
       "options": [
         {
@@ -974,30 +974,30 @@
       "score": 1.0,
       "question_text": "Consider the following equilibrium system in a closed container of fixed volume :\n\\(\\mathbf{A}(\\mathbf{g})+\\mathbf{B}(\\mathbf{g})\\rightleftharpoons2\\mathbf{C}(\\mathbf{g}) \\)\n\nA small amount of B(g) is added at time t and finally a new equilibrium is attained at the same temperature. Which of the following graphs can represent the variation of  \\( [C(g)] \\)  with time?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q25_stem_0.jpg",
+        "q25_stem_1.jpg",
+        "q25_stem_2.jpg",
+        "q25_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q25_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q25_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q25_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q25_stem_3.jpg]",
           "image": null
         }
       ],
@@ -1133,33 +1133,33 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of limonene is shown below :\n[IMG:0.jpg]\n\nIt reacts with excess HCl(g) to give Z as the major product. Which of the following is Z?",
+      "question_text": "The structure of limonene is shown below :\n[IMG:q29_stem_0.jpg]\n\nIt reacts with excess HCl(g) to give Z as the major product. Which of the following is Z?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg",
-        "4.jpg"
+        "q29_stem_0.jpg",
+        "q29_stem_1.jpg",
+        "q29_stem_2.jpg",
+        "q29_stem_3.jpg",
+        "q29_stem_4.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q29_stem_1.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q29_stem_2.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q29_stem_3.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:4.jpg]",
+          "text": "[IMG:q29_stem_4.jpg]",
           "image": null
         }
       ],
@@ -1180,30 +1180,30 @@
       "score": 1.0,
       "question_text": "Choose one combination from below in which X can make an addition polymer; while Y can make a condensation polymer.\n\nX    |    Y",
       "question_images": [
-        "5.jpg",
-        "6.jpg",
-        "7.jpg",
-        "8.jpg"
+        "q30_stem_0.jpg",
+        "q30_stem_1.jpg",
+        "q30_stem_2.jpg",
+        "q30_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:5.jpg]    |    [IMG:9.jpg]",
+          "text": "[IMG:q30_stem_0.jpg]    |    [IMG:q30_stem_4.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:6.jpg]    |    [IMG:10.jpg]",
+          "text": "[IMG:q30_stem_1.jpg]    |    [IMG:q30_stem_5.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:7.jpg]    |    [IMG:10.jpg]",
+          "text": "[IMG:q30_stem_2.jpg]    |    [IMG:q30_stem_5.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:8.jpg]    |    [IMG:11.jpg]",
+          "text": "[IMG:q30_stem_3.jpg]    |    [IMG:q30_stem_6.jpg]",
           "image": null
         }
       ],
@@ -1224,30 +1224,30 @@
       "score": 1.0,
       "question_text": "Which of the following combinations is correct?\n\nStructure    |    Systematic name",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q31_stem_0.jpg",
+        "q31_stem_1.jpg",
+        "q31_stem_2.jpg",
+        "q31_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]    |    3-ethylbutanone",
+          "text": "[IMG:q31_stem_0.jpg]    |    3-ethylbutanone",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]    |    pentane-1,5-diamide",
+          "text": "[IMG:q31_stem_1.jpg]    |    pentane-1,5-diamide",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]    |    ethyl methanoate",
+          "text": "[IMG:q31_stem_2.jpg]    |    ethyl methanoate",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]    |    pent-1-enal",
+          "text": "[IMG:q31_stem_3.jpg]    |    pent-1-enal",
           "image": null
         }
       ],
@@ -1266,9 +1266,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Consider the following conversion of organic compounds :\n[IMG:4.jpg]\n\nWhich of the following combinations of steps is correct?\n\nStep 1    |    Step 2",
+      "question_text": "Consider the following conversion of organic compounds :\n[IMG:q32_stem_0.jpg]\n\nWhich of the following combinations of steps is correct?\n\nStep 1    |    Step 2",
       "question_images": [
-        "4.jpg"
+        "q32_stem_0.jpg"
       ],
       "options": [
         {

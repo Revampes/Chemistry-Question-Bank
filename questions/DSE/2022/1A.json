@@ -290,9 +290,9 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of a portion of a polymer is shown below:\n[IMG:0.jpg]\n\nWhich of the following statements concerning the polymer is correct?",
+      "question_text": "The structure of a portion of a polymer is shown below:\n[IMG:q8_stem_0.jpg]\n\nWhich of the following statements concerning the polymer is correct?",
       "question_images": [
-        "0.jpg"
+        "q8_stem_0.jpg"
       ],
       "options": [
         {
@@ -302,8 +302,8 @@
         },
         {
           "label": "B",
-          "text": "Its repeating unit is [IMG:1.jpg].",
-          "image": ""
+          "text": "Its repeating unit is [IMG:q8_stem_1.jpg].",
+          "image": null
         },
         {
           "label": "C",
@@ -487,9 +487,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "Consider the following chemical cell :\n[IMG:0.jpg]\n\nWhich of the following statements is correct?",
+      "question_text": "Consider the following chemical cell :\n[IMG:q13_stem_0.jpg]\n\nWhich of the following statements is correct?",
       "question_images": [
-        "0.jpg"
+        "q13_stem_0.jpg"
       ],
       "options": [
         {
@@ -606,9 +606,9 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The molecular formula of compound X is  \\( C_{4}H_{7}Br \\)  and it has one carbon-carbon double bond. It can react with  \\( Br_{2} \\)  (dissolved in an organic solvent) to give the following organic product :\n[IMG:0.jpg]\n\nWhich of the following is / are the possible structure(s) of X?\n\n(1)  \\( CH_{2}BrCH_{2}CH=CH_{2} \\)\n(2)  \\( H_{2}C=CHCHBrCH_{3} \\)\n(3)  \\( CH_{3}CH=CHCH_{2}Br \\)",
+      "question_text": "The molecular formula of compound X is  \\( C_{4}H_{7}Br \\)  and it has one carbon-carbon double bond. It can react with  \\( Br_{2} \\)  (dissolved in an organic solvent) to give the following organic product :\n[IMG:q16_stem_0.jpg]\n\nWhich of the following is / are the possible structure(s) of X?\n\n(1)  \\( CH_{2}BrCH_{2}CH=CH_{2} \\)\n(2)  \\( H_{2}C=CHCHBrCH_{3} \\)\n(3)  \\( CH_{3}CH=CHCH_{2}Br \\)",
       "question_images": [
-        "0.jpg"
+        "q16_stem_0.jpg"
       ],
       "options": [
         {
@@ -647,9 +647,9 @@
         "Topic 1: Planet Earth"
       ],
       "score": 1.0,
-      "question_text": "Refer to the following set-up :\n[IMG:1.jpg]\n\nWhich of the following processes can be performed by using the above set-up?\n\n(1) obtaining pure water from sea water\n(2) obtaining propane from diesel oil\n(3) obtaining oxygen from liquefied air",
+      "question_text": "Refer to the following set-up :\n[IMG:q17_stem_0.jpg]\n\nWhich of the following processes can be performed by using the above set-up?\n\n(1) obtaining pure water from sea water\n(2) obtaining propane from diesel oil\n(3) obtaining oxygen from liquefied air",
       "question_images": [
-        "1.jpg"
+        "q17_stem_0.jpg"
       ],
       "options": [
         {
@@ -728,10 +728,10 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Consider the following two compounds :\n[IMG:0.jpg]  [IMG:1.jpg]\n\nWhich of the following statements is / are correct?\n\n(1) They belong to the same homologous series.\n(2) They have the same molecular formula.\n(3) They are insoluble in water.",
+      "question_text": "Consider the following two compounds :\n[IMG:q19_stem_0.jpg]  [IMG:q19_stem_1.jpg]\n\nWhich of the following statements is / are correct?\n\n(1) They belong to the same homologous series.\n(2) They have the same molecular formula.\n(3) They are insoluble in water.",
       "question_images": [
-        "0.jpg",
-        "1.jpg"
+        "q19_stem_0.jpg",
+        "q19_stem_1.jpg"
       ],
       "options": [
         {
@@ -887,9 +887,9 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The simplified diagram below shows how different petroleum fractions can be obtained from a fractionating tower.\n[IMG:0.jpg]\n\nWhich of the following statements are correct?\n\n(1) Fraction S has a darker colour than fraction Q.\n(2) Fraction R has a higher viscosity than fraction P.\n(3) Fraction Q is more flammable than fraction P.",
+      "question_text": "The simplified diagram below shows how different petroleum fractions can be obtained from a fractionating tower.\n[IMG:q23_stem_0.jpg]\n\nWhich of the following statements are correct?\n\n(1) Fraction S has a darker colour than fraction Q.\n(2) Fraction R has a higher viscosity than fraction P.\n(3) Fraction Q is more flammable than fraction P.",
       "question_images": [
-        "0.jpg"
+        "q23_stem_0.jpg"
       ],
       "options": [
         {
@@ -1006,9 +1006,9 @@
         "Topic 9: Rate of Reaction"
       ],
       "score": 1.0,
-      "question_text": "50 cm³ of 0.10 M HCl(aq) reacts with excess calcium carbonate powder in an open conical flask giving curve X in the graph below.\n[IMG:0.jpg]\n\nWhich of the following changes may give curve Y?",
+      "question_text": "50 cm³ of 0.10 M HCl(aq) reacts with excess calcium carbonate powder in an open conical flask giving curve X in the graph below.\n[IMG:q26_stem_0.jpg]\n\nWhich of the following changes may give curve Y?",
       "question_images": [
-        "0.jpg"
+        "q26_stem_0.jpg"
       ],
       "options": [
         {
@@ -1047,9 +1047,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of an organic compound is shown below :\n[IMG:1.jpg]\n\nWhich of the following combinations concerning whether cis-trans isomerism and enantiomerism can occur in the compound is correct?\n\ncis-trans isomerism    |    enantiomerism",
+      "question_text": "The structure of an organic compound is shown below :\n[IMG:q27_stem_0.jpg]\n\nWhich of the following combinations concerning whether cis-trans isomerism and enantiomerism can occur in the compound is correct?\n\ncis-trans isomerism    |    enantiomerism",
       "question_images": [
-        "1.jpg"
+        "q27_stem_0.jpg"
       ],
       "options": [
         {
@@ -1088,9 +1088,9 @@
         "Topic 10: Chemical Equilibrium"
       ],
       "score": 1.0,
-      "question_text": "When chemical equilibrium is attained in a certain reversible reaction, only  \\( X(g) \\)  and  \\( Y(g) \\)  are present in a closed container of fixed volume. The following graph shows the variation in concentrations of  \\( X(g) \\)  and  \\( Y(g) \\)  with time:\n[IMG:0.jpg]\n\nWhich of the following equations can represent the reversible reaction?",
+      "question_text": "When chemical equilibrium is attained in a certain reversible reaction, only  \\( X(g) \\)  and  \\( Y(g) \\)  are present in a closed container of fixed volume. The following graph shows the variation in concentrations of  \\( X(g) \\)  and  \\( Y(g) \\)  with time:\n[IMG:q28_stem_0.jpg]\n\nWhich of the following equations can represent the reversible reaction?",
       "question_images": [
-        "0.jpg"
+        "q28_stem_0.jpg"
       ],
       "options": [
         {
@@ -1131,30 +1131,30 @@
       "score": 1.0,
       "question_text": "When it is heated with excess NaOH(aq), followed by the addition of excess HCl(aq), a major organic product Z is formed. Which of the following is Z?",
       "question_images": [
-        "2.jpg",
-        "3.jpg",
-        "4.jpg",
-        "5.jpg"
+        "q29_stem_1.jpg",
+        "q29_stem_2.jpg",
+        "q29_stem_3.jpg",
+        "q29_stem_4.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q29_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q29_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q29_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:4.jpg]",
+          "text": "[IMG:q29_stem_3.jpg]",
           "image": null
         }
       ],
@@ -1212,9 +1212,9 @@
         "Topic 9: Rate of Reaction"
       ],
       "score": 1.0,
-      "question_text": "Consider the experimental set-up shown below:\n[IMG:0.jpg]\n\nUnder room conditions, which of the following pairs of reactants can the progress of their reaction be followed by the above set-up?\n\n(1)  \\( \\mathrm{Zn(OH)_{2}(s)} \\)  and  \\( \\mathrm{HNO_{3}(aq)} \\)\n(2) Mg(s) and HCl(aq)\n(3) KBr(s) and \\(Cl_{2}(aq)\\)",
+      "question_text": "Consider the experimental set-up shown below:\n[IMG:q31_stem_0.jpg]\n\nUnder room conditions, which of the following pairs of reactants can the progress of their reaction be followed by the above set-up?\n\n(1)  \\( \\mathrm{Zn(OH)_{2}(s)} \\)  and  \\( \\mathrm{HNO_{3}(aq)} \\)\n(2) Mg(s) and HCl(aq)\n(3) KBr(s) and \\(Cl_{2}(aq)\\)",
       "question_images": [
-        "0.jpg"
+        "q31_stem_0.jpg"
       ],
       "options": [
         {
@@ -1292,9 +1292,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of aspirin is shown below :\n[IMG:1.jpg]\n\nWhich of the following statements about aspirin are correct?\n\n(1) It has an ester group.\n(2) It can reduce inflammation.\n(3) It has a higher solubility in  \\( Na_{2}CO_{3}(aq) \\)  than in pure water.",
+      "question_text": "The structure of aspirin is shown below :\n[IMG:q33_stem_0.jpg]\n\nWhich of the following statements about aspirin are correct?\n\n(1) It has an ester group.\n(2) It can reduce inflammation.\n(3) It has a higher solubility in  \\( Na_{2}CO_{3}(aq) \\)  than in pure water.",
       "question_images": [
-        "1.jpg"
+        "q33_stem_0.jpg"
       ],
       "options": [
         {
@@ -1372,9 +1372,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of a detergent is shown below :\n[IMG:0.jpg]\n\nWhich of the following statements concerning this detergent are correct?\n\n(1) It is a soapless detergent.\n(2) It can act as an emulsifying agent.\n(3) It can increase the surface tension of water.\n",
+      "question_text": "The structure of a detergent is shown below :\n[IMG:q35_stem_0.jpg]\n\nWhich of the following statements concerning this detergent are correct?\n\n(1) It is a soapless detergent.\n(2) It can act as an emulsifying agent.\n(3) It can increase the surface tension of water.\n",
       "question_images": [
-        "0.jpg"
+        "q35_stem_0.jpg"
       ],
       "options": [
         {

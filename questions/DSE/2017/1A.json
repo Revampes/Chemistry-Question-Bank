@@ -134,9 +134,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "The diagram below shows a set-up with the bulb lights up :\n[IMG:0.jpg]\n\nWhich of the following statements concerning the set-up is correct?",
+      "question_text": "The diagram below shows a set-up with the bulb lights up :\n[IMG:q4_stem_0.jpg]\n\nWhich of the following statements concerning the set-up is correct?",
       "question_images": [
-        "0.jpg"
+        "q4_stem_0.jpg"
       ],
       "options": [
         {
@@ -253,9 +253,9 @@
         "Topic 8: Chemical Reactions and Energy"
       ],
       "score": 1.0,
-      "question_text": "In an experiment for studying the enthalpy change of a reaction, the variation of the temperature of the content in the reaction container with time was plotted in a graph as shown below\n[IMG:0.jpg]\nThe reaction starts at the third minute. Which of the following combinations is correct?\nThe greatest temperature rise of the content    |    Enthalpy change of the reaction",
+      "question_text": "In an experiment for studying the enthalpy change of a reaction, the variation of the temperature of the content in the reaction container with time was plotted in a graph as shown below\n[IMG:q7_stem_0.jpg]\nThe reaction starts at the third minute. Which of the following combinations is correct?\nThe greatest temperature rise of the content    |    Enthalpy change of the reaction",
       "question_images": [
-        "0.jpg"
+        "q7_stem_0.jpg"
       ],
       "options": [
         {
@@ -491,30 +491,30 @@
       "score": 1.0,
       "question_text": "In which of the following cases would the iron nail corrode fastest?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q13_stem_0.jpg",
+        "q13_stem_1.jpg",
+        "q13_stem_2.jpg",
+        "q13_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q13_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q13_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q13_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q13_stem_3.jpg]",
           "image": null
         }
       ],
@@ -689,10 +689,10 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structures of organic compounds A and B are shown below :\n(A) [IMG:0.jpg] (B) [IMG:1.jpg]\n\nWhich of the following statements concerning the two compounds is / are correct?\n\n(1) A and B belong to the same homologous series.\n(2) A and B can be distinguished by acidified  \\( KMnO_{4}(aq) \\) .\n(3) Complete combustion of 1.0 g of A and complete combustion of 1.0 g of B would form the same mass of  \\( CO_{2}(g) \\) .",
+      "question_text": "The structures of organic compounds A and B are shown below :\n(A) [IMG:q18_stem_0.jpg] (B) [IMG:q18_stem_1.jpg]\n\nWhich of the following statements concerning the two compounds is / are correct?\n\n(1) A and B belong to the same homologous series.\n(2) A and B can be distinguished by acidified  \\( KMnO_{4}(aq) \\) .\n(3) Complete combustion of 1.0 g of A and complete combustion of 1.0 g of B would form the same mass of  \\( CO_{2}(g) \\) .",
       "question_images": [
-        "0.jpg",
-        "1.jpg"
+        "q18_stem_0.jpg",
+        "q18_stem_1.jpg"
       ],
       "options": [
         {
@@ -967,30 +967,30 @@
       "score": 1.0,
       "question_text": "Which of the following graphs (not drawn to scale) shows the variation in melting points of the elements in the third period of the Periodic Table?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q25_stem_0.jpg",
+        "q25_stem_1.jpg",
+        "q25_stem_2.jpg",
+        "q25_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q25_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q25_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q25_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q25_stem_3.jpg]",
           "image": null
         }
       ],
@@ -1009,9 +1009,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of a compound is shown below :\n[IMG:4.jpg]\nHow many cis-trans isomers does this compound have?",
+      "question_text": "The structure of a compound is shown below :\n[IMG:q26_stem_0.jpg]\nHow many cis-trans isomers does this compound have?",
       "question_images": [
-        "4.jpg"
+        "q26_stem_0.jpg"
       ],
       "options": [
         {
@@ -1050,9 +1050,9 @@
         "Topic 9: Rate of Reaction"
       ],
       "score": 1.0,
-      "question_text": "Direction: Questions 27 and 28 refer to the following set-up.\n[IMG:0.jpg]\nA(aq) and B(aq) react to form a turbid mixture. Three trials of an experiment were performed to study the rate of the reaction. In each trial, A(aq) was mixed with  \\( H_{2}O(l) \\)  in the beaker. After that, B(aq) was added to the mixture, and immediately started to measure the time needed for the cross to become invisible when viewed from above. The table below shows the relevant data.\n\n[IMG:2.jpg]\n\nWhich of the following statements concerning the rate of the reaction is correct?",
+      "question_text": "Direction: Questions 27 and 28 refer to the following set-up.\n[IMG:q27_stem_0.jpg]\nA(aq) and B(aq) react to form a turbid mixture. Three trials of an experiment were performed to study the rate of the reaction. In each trial, A(aq) was mixed with  \\( H_{2}O(l) \\)  in the beaker. After that, B(aq) was added to the mixture, and immediately started to measure the time needed for the cross to become invisible when viewed from above. The table below shows the relevant data.\n\n[IMG:q27_stem_1.jpg]\n\nWhich of the following statements concerning the rate of the reaction is correct?",
       "question_images": [
-        "0.jpg"
+        "q27_stem_0.jpg"
       ],
       "options": [
         {
@@ -1130,9 +1130,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "A compound has the following structure :\n[IMG:1.jpg]\n\nWhich of the following statements concerning the compound is correct?",
+      "question_text": "A compound has the following structure :\n[IMG:q29_stem_0.jpg]\n\nWhich of the following statements concerning the compound is correct?",
       "question_images": [
-        "1.jpg"
+        "q29_stem_0.jpg"
       ],
       "options": [
         {
@@ -1288,11 +1288,11 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structures of three compounds are shown below:\n(1) [IMG:0.jpg]\n\n(2) [IMG:1.jpg]\n\n(3) [IMG:2.jpg]\nWhich of them can form a stable emulsion when shaken with oil and water vigorously?",
+      "question_text": "The structures of three compounds are shown below:\n(1) [IMG:q33_stem_0.jpg]\n\n(2) [IMG:q33_stem_1.jpg]\n\n(3) [IMG:q33_stem_2.jpg]\nWhich of them can form a stable emulsion when shaken with oil and water vigorously?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg"
+        "q33_stem_0.jpg",
+        "q33_stem_1.jpg",
+        "q33_stem_2.jpg"
       ],
       "options": [
         {

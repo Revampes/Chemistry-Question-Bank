@@ -641,9 +641,9 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The diagram below shows the set-up of an experiment :\n[IMG:0.jpg]\nThe unglazed porcelain in tube A is strongly heated and the glass wool is occasionally heated. Which of the following statements is / are correct?\n(1) A chemical reaction occurs at the glass wool.\n(2) There is NO colour change in the solution in tube B.\n(3) There is NO colour change in the solution in tube C.",
+      "question_text": "The diagram below shows the set-up of an experiment :\n[IMG:q17_stem_0.jpg]\nThe unglazed porcelain in tube A is strongly heated and the glass wool is occasionally heated. Which of the following statements is / are correct?\n(1) A chemical reaction occurs at the glass wool.\n(2) There is NO colour change in the solution in tube B.\n(3) There is NO colour change in the solution in tube C.",
       "question_images": [
-        "0.jpg"
+        "q17_stem_0.jpg"
       ],
       "options": [
         {
@@ -799,9 +799,9 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Which of the following compounds can be used as monomers to make addition polymers?\n\n(1)  \\( CF_{2}=CF_{2} \\)  (2)  \\( CH_{2}=C(CH_{2}CH_{3})CN \\)  (3) [IMG:0.jpg]",
+      "question_text": "Which of the following compounds can be used as monomers to make addition polymers?\n\n(1)  \\( CF_{2}=CF_{2} \\)  (2)  \\( CH_{2}=C(CH_{2}CH_{3})CN \\)  (3) [IMG:q21_stem_0.jpg]",
       "question_images": [
-        "0.jpg"
+        "q21_stem_0.jpg"
       ],
       "options": [
         {
@@ -996,9 +996,9 @@
         "Topic 9: Rate of Reaction"
       ],
       "score": 1.0,
-      "question_text": "The concentration-time graph for a certain chemical reaction in a closed vessel of fixed volume is shown below :\n[IMG:0.jpg]\n\nWhich of the following chemical equations correctly represents the reaction?",
+      "question_text": "The concentration-time graph for a certain chemical reaction in a closed vessel of fixed volume is shown below :\n[IMG:q26_stem_0.jpg]\n\nWhich of the following chemical equations correctly represents the reaction?",
       "question_images": [
-        "0.jpg"
+        "q26_stem_0.jpg"
       ],
       "options": [
         {
@@ -1039,30 +1039,30 @@
       "score": 1.0,
       "question_text": "In a  \\( 1 \\, dm^{3} \\)  closed container, 1 mole of  \\( X_{2}(g) \\)  undergoes decomposition to form  \\( X(g) \\)  until equilibrium is attained. The chemical equation concerned is shown below:\n\n\\( \\mathbf{X}_{2}(\\mathbf{g})\\rightleftharpoons2\\mathbf{X}(\\mathbf{g}) \\)\n\nWhich of the following graphs correctly shows the variation in concentrations of  \\( X_{2}(g) \\)  and  \\( X(g) \\)  with time?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q27_stem_0.jpg",
+        "q27_stem_1.jpg",
+        "q27_stem_2.jpg",
+        "q27_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q27_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q27_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q27_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q27_stem_3.jpg]",
           "image": null
         }
       ],
@@ -1081,9 +1081,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of an organic compound is shown below :\n[IMG:4.jpg]\n\nWhich of the following statements is correct?",
+      "question_text": "The structure of an organic compound is shown below :\n[IMG:q28_stem_0.jpg]\n\nWhich of the following statements is correct?",
       "question_images": [
-        "4.jpg"
+        "q28_stem_0.jpg"
       ],
       "options": [
         {
@@ -1239,11 +1239,11 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Which of the following structures represent(s) the active ingredient(s) in aspirin tablets?\n\n(1)\n[IMG:0.jpg]\n(2)\n[IMG:1.jpg]\n(3)\n[IMG:2.jpg]",
+      "question_text": "Which of the following structures represent(s) the active ingredient(s) in aspirin tablets?\n\n(1)\n[IMG:q32_stem_0.jpg]\n(2)\n[IMG:q32_stem_1.jpg]\n(3)\n[IMG:q32_stem_2.jpg]",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg"
+        "q32_stem_0.jpg",
+        "q32_stem_1.jpg",
+        "q32_stem_2.jpg"
       ],
       "options": [
         {
@@ -1321,9 +1321,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of a compound is shown below :\n[IMG:0.jpg]\n\nWhich of the following statements concerning the compound are correct?\n\n(1) It can form a salt with aqueous ammonia.\n(2) It can be reduced to an alkanol by using  \\( LiAlH_{4} \\) .\n(3) It can form an ester with methanol under suitable conditions.",
+      "question_text": "The structure of a compound is shown below :\n[IMG:q34_stem_0.jpg]\n\nWhich of the following statements concerning the compound are correct?\n\n(1) It can form a salt with aqueous ammonia.\n(2) It can be reduced to an alkanol by using  \\( LiAlH_{4} \\) .\n(3) It can form an ester with methanol under suitable conditions.",
       "question_images": [
-        "0.jpg"
+        "q34_stem_0.jpg"
       ],
       "options": [
         {

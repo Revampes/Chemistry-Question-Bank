@@ -251,12 +251,12 @@
         "Topic 4: Acids and Bases"
       ],
       "score": 1.0,
-      "question_text": "Consider the following set-ups :\n(1) [IMG:0.jpg]      (2) [IMG:1.jpg]\n(3) [IMG:2.jpg]      (4) [IMG:3.jpg]\nWhich hook would corrode first?",
+      "question_text": "Consider the following set-ups :\n(1) [IMG:q7_stem_0.jpg]      (2) [IMG:q7_stem_1.jpg]\n(3) [IMG:q7_stem_2.jpg]      (4) [IMG:q7_stem_3.jpg]\nWhich hook would corrode first?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q7_stem_0.jpg",
+        "q7_stem_1.jpg",
+        "q7_stem_2.jpg",
+        "q7_stem_3.jpg"
       ],
       "options": [
         {
@@ -373,9 +373,9 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of a certain polymer is shown below :\n[IMG:0.jpg]\n\nWhich of the following is the systematic name of the monomer of this polymer?",
+      "question_text": "The structure of a certain polymer is shown below :\n[IMG:q10_stem_0.jpg]\n\nWhich of the following is the systematic name of the monomer of this polymer?",
       "question_images": [
-        "0.jpg"
+        "q10_stem_0.jpg"
       ],
       "options": [
         {
@@ -492,9 +492,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "An electrolysis experiment is conducted using the set-up shown below :\n[IMG:1.jpg]\nWhat are the expected colours around X and Y after the experiment has been conducted for some time?\nX    |    Y",
+      "question_text": "An electrolysis experiment is conducted using the set-up shown below :\n[IMG:q13_stem_0.jpg]\nWhat are the expected colours around X and Y after the experiment has been conducted for some time?\nX    |    Y",
       "question_images": [
-        "1.jpg"
+        "q13_stem_0.jpg"
       ],
       "options": [
         {
@@ -611,9 +611,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "Consider the following set-up at the start of an experiment :\n[IMG:0.jpg]\n\nAfter a period of time, the concentration of  \\( K_{2}Cr_{2}O_{7}(aq) \\)  drops to 0.47 M. What is the concentration of  \\( FeSO_{4}(aq) \\)  at that time?",
+      "question_text": "Consider the following set-up at the start of an experiment :\n[IMG:q16_stem_0.jpg]\n\nAfter a period of time, the concentration of  \\( K_{2}Cr_{2}O_{7}(aq) \\)  drops to 0.47 M. What is the concentration of  \\( FeSO_{4}(aq) \\)  at that time?",
       "question_images": [
-        "0.jpg"
+        "q16_stem_0.jpg"
       ],
       "options": [
         {
@@ -767,9 +767,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "The set-up of an experiment is shown below :\n[IMG:0.jpg]\n\nWhich of the following observations would be expected?\n\n(1) Limewater turns milky.\n(2)  \\( Br_{2}(aq) \\)  changes from brown to colourless.\n(3) The flame is brick red in colour.",
+      "question_text": "The set-up of an experiment is shown below :\n[IMG:q20_stem_0.jpg]\n\nWhich of the following observations would be expected?\n\n(1) Limewater turns milky.\n(2)  \\( Br_{2}(aq) \\)  changes from brown to colourless.\n(3) The flame is brick red in colour.",
       "question_images": [
-        "0.jpg"
+        "q20_stem_0.jpg"
       ],
       "options": [
         {
@@ -1042,9 +1042,9 @@
         "Topic 10: Chemical Equilibrium"
       ],
       "score": 1.0,
-      "question_text": "Consider the following reaction at a certain temperature :\n\n\\( 2\\mathbf{X}\\mathbf{Y}_{2}(\\mathbf{g})\\rightleftharpoons\\mathbf{X}_{2}(\\mathbf{g})+2\\mathbf{Y}_{2}(\\mathbf{g}) \\)        \\( K_{\\mathrm{c}}=0.60\\ mol\\ dm^{-3} \\)\n\nAn equilibrium mixture was obtained at this temperature as shown below :\n[IMG:0.jpg]\n\nWhat is n ?",
+      "question_text": "Consider the following reaction at a certain temperature :\n\n\\( 2\\mathbf{X}\\mathbf{Y}_{2}(\\mathbf{g})\\rightleftharpoons\\mathbf{X}_{2}(\\mathbf{g})+2\\mathbf{Y}_{2}(\\mathbf{g}) \\)        \\( K_{\\mathrm{c}}=0.60\\ mol\\ dm^{-3} \\)\n\nAn equilibrium mixture was obtained at this temperature as shown below :\n[IMG:q27_stem_0.jpg]\n\nWhat is n ?",
       "question_images": [
-        "0.jpg"
+        "q27_stem_0.jpg"
       ],
       "options": [
         {
@@ -1122,9 +1122,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Consider the following conversion :\n[IMG:0.jpg]\n\nWhich of the following combinations of reagents can achieve the above conversion?",
+      "question_text": "Consider the following conversion :\n[IMG:q29_stem_0.jpg]\n\nWhich of the following combinations of reagents can achieve the above conversion?",
       "question_images": [
-        "0.jpg"
+        "q29_stem_0.jpg"
       ],
       "options": [
         {
@@ -1163,9 +1163,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of the antibiotic ‘amoxicillin’ is shown below :\n[IMG:1.jpg]\n\nWhich of the following functional groups is / are present in amoxicillin?\n\n(1) ester\n(2) amide\n(3) hydroxyl",
+      "question_text": "The structure of the antibiotic ‘amoxicillin’ is shown below :\n[IMG:q30_stem_0.jpg]\n\nWhich of the following functional groups is / are present in amoxicillin?\n\n(1) ester\n(2) amide\n(3) hydroxyl",
       "question_images": [
-        "1.jpg"
+        "q30_stem_0.jpg"
       ],
       "options": [
         {
@@ -1243,11 +1243,11 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "(1) [IMG:0.jpg]     (2) [IMG:1.jpg]     (3) [IMG:2.jpg]\n\nWhich of the following compounds can react with acidified potassium dichromate solution to form a ketone?",
+      "question_text": "(1) [IMG:q32_stem_0.jpg]     (2) [IMG:q32_stem_1.jpg]     (3) [IMG:q32_stem_2.jpg]\n\nWhich of the following compounds can react with acidified potassium dichromate solution to form a ketone?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg"
+        "q32_stem_0.jpg",
+        "q32_stem_1.jpg",
+        "q32_stem_2.jpg"
       ],
       "options": [
         {
@@ -1325,9 +1325,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "A polymer has the structure shown below :\n[IMG:3.jpg]\n\nWhich of the following statements concerning the polymer is correct?\n\n(1) Its intermolecular attraction is predominantly hydrogen bond.\n(2) The polymer chains can be broken in the presence of dilute hydrochloric acid.\n(3) The polymer chains can be broken in the presence of dilute sodium hydroxide solution.",
+      "question_text": "A polymer has the structure shown below :\n[IMG:q34_stem_0.jpg]\n\nWhich of the following statements concerning the polymer is correct?\n\n(1) Its intermolecular attraction is predominantly hydrogen bond.\n(2) The polymer chains can be broken in the presence of dilute hydrochloric acid.\n(3) The polymer chains can be broken in the presence of dilute sodium hydroxide solution.",
       "question_images": [
-        "3.jpg"
+        "q34_stem_0.jpg"
       ],
       "options": [
         {

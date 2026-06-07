@@ -56,9 +56,9 @@
         "Topic 2: Microscopic World I"
       ],
       "score": 1.0,
-      "question_text": "Suppose that element X has only two isotopes,  \\( {}^{63}X \\)  and  \\( {}^{65}X \\) . The graph below shows the relative abundance of the two isotopes:\n[IMG:0.jpg]\n\nWhich of the following is the relative atomic mass of X?",
+      "question_text": "Suppose that element X has only two isotopes,  \\( {}^{63}X \\)  and  \\( {}^{65}X \\) . The graph below shows the relative abundance of the two isotopes:\n[IMG:q2_stem_0.jpg]\n\nWhich of the following is the relative atomic mass of X?",
       "question_images": [
-        "0.jpg"
+        "q2_stem_0.jpg"
       ],
       "options": [
         {
@@ -216,30 +216,30 @@
       "score": 1.0,
       "question_text": "Which of the set-ups shown below can best be used to anodise an aluminium object?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q6_stem_0.jpg",
+        "q6_stem_1.jpg",
+        "q6_stem_2.jpg",
+        "q6_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q6_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q6_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q6_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q6_stem_3.jpg]",
           "image": null
         }
       ],
@@ -531,9 +531,9 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "A portion of the structure of an addition polymer X is shown below:\n[IMG:0.jpg]\n\nWhich of the following is the systematic name of the monomer of X based on the given structure?",
+      "question_text": "A portion of the structure of an addition polymer X is shown below:\n[IMG:q14_stem_0.jpg]\n\nWhich of the following is the systematic name of the monomer of X based on the given structure?",
       "question_images": [
-        "0.jpg"
+        "q14_stem_0.jpg"
       ],
       "options": [
         {
@@ -767,9 +767,9 @@
         "Topic 5: Fossil Fuels and Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "An organic compound has the following structure:\n[IMG:0.jpg]\n\n(1) It is immiscible with water.\n(2) It is neutral to litmus solution.\n(3) It burns with a non-luminous flame.\n\nWhich of the following statements about this compound is/are correct?",
+      "question_text": "An organic compound has the following structure:\n[IMG:q20_stem_0.jpg]\n\n(1) It is immiscible with water.\n(2) It is neutral to litmus solution.\n(3) It burns with a non-luminous flame.\n\nWhich of the following statements about this compound is/are correct?",
       "question_images": [
-        "0.jpg"
+        "q20_stem_0.jpg"
       ],
       "options": [
         {
@@ -962,33 +962,33 @@
         "Topic 9: Rate of Reaction"
       ],
       "score": 1.0,
-      "question_text": "In an experiment to study the rate of the following reaction, a small amount of powdered calcium carbonate was added to excess hydrochloric acid and the volume of gas liberated was recorded.\n\\(  CaCO_{3}(s)+2HCl(aq)\\rightarrow CaCl_{2}(aq)+H_{2}O(l)+CO_{2}(g) \\)\nThe graph below shows the volumes of gas liberated (V) at different times (t) during the experiment:\n[IMG:0.jpg]\n\nThe experiment was repeated under the same conditions using the same mass of calcium carbonate granules instead of powdered calcium carbonate. Which of the following graphs would best represent the results obtained in the repeated experiment?",
+      "question_text": "In an experiment to study the rate of the following reaction, a small amount of powdered calcium carbonate was added to excess hydrochloric acid and the volume of gas liberated was recorded.\n\\(  CaCO_{3}(s)+2HCl(aq)\\rightarrow CaCl_{2}(aq)+H_{2}O(l)+CO_{2}(g) \\)\nThe graph below shows the volumes of gas liberated (V) at different times (t) during the experiment:\n[IMG:q25_stem_0.jpg]\n\nThe experiment was repeated under the same conditions using the same mass of calcium carbonate granules instead of powdered calcium carbonate. Which of the following graphs would best represent the results obtained in the repeated experiment?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg",
-        "4.jpg"
+        "q25_stem_0.jpg",
+        "q25_stem_1.jpg",
+        "q25_stem_2.jpg",
+        "q25_stem_3.jpg",
+        "q25_stem_4.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q25_stem_1.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q25_stem_2.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q25_stem_3.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:4.jpg]",
+          "text": "[IMG:q25_stem_4.jpg]",
           "image": null
         }
       ],
@@ -1124,9 +1124,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of fructose is shown below:\n[IMG:0.jpg]\n\nWhich of the following statements about fructose is correct?",
+      "question_text": "The structure of fructose is shown below:\n[IMG:q29_stem_0.jpg]\n\nWhich of the following statements about fructose is correct?",
       "question_images": [
-        "0.jpg"
+        "q29_stem_0.jpg"
       ],
       "options": [
         {
@@ -1165,9 +1165,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The three-dimensional structure of a molecule of compound X and that of compound Y are shown below:\n[IMG:0.jpg]\n\nWhich of the following statements about X and Y is correct?",
+      "question_text": "The three-dimensional structure of a molecule of compound X and that of compound Y are shown below:\n[IMG:q30_stem_0.jpg]\n\nWhich of the following statements about X and Y is correct?",
       "question_images": [
-        "0.jpg"
+        "q30_stem_0.jpg"
       ],
       "options": [
         {
@@ -1206,9 +1206,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Consider the compounds X and Y shown below:\n[IMG:1.jpg]\n\nWhich of the following statements about X and Y is correct?",
+      "question_text": "Consider the compounds X and Y shown below:\n[IMG:q31_stem_0.jpg]\n\nWhich of the following statements about X and Y is correct?",
       "question_images": [
-        "1.jpg"
+        "q31_stem_0.jpg"
       ],
       "options": [
         {
@@ -1325,9 +1325,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Consider the following conversion of organic compounds:\n[IMG:0.jpg]\n\nWhich of the following statements about the above conversion are correct?\n\n(1) Excess  \\( Br_{2}(l) \\)  should be used in Step 1.\n(2) Light is needed in Step 1.\n(3) The reagent used in Step 2 can be KOH(aq).",
+      "question_text": "Consider the following conversion of organic compounds:\n[IMG:q34_stem_0.jpg]\n\nWhich of the following statements about the above conversion are correct?\n\n(1) Excess  \\( Br_{2}(l) \\)  should be used in Step 1.\n(2) Light is needed in Step 1.\n(3) The reagent used in Step 2 can be KOH(aq).",
       "question_images": [
-        "0.jpg"
+        "q34_stem_0.jpg"
       ],
       "options": [
         {

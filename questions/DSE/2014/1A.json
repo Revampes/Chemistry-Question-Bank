@@ -95,11 +95,11 @@
         "Topic 4: Acids and Bases"
       ],
       "score": 1.0,
-      "question_text": "The diagram below shows three iron nails of the same size and shape each immersed in a liquid.\n(X) [IMG:0.jpg]\n\n(Y) [IMG:1.jpg]\n\n(Z) [IMG:2.jpg]\n\nWhich of the following arrangements represents the ascending order of rate of corrosion of the iron nails?",
+      "question_text": "The diagram below shows three iron nails of the same size and shape each immersed in a liquid.\n(X) [IMG:q3_stem_0.jpg]\n\n(Y) [IMG:q3_stem_1.jpg]\n\n(Z) [IMG:q3_stem_2.jpg]\n\nWhich of the following arrangements represents the ascending order of rate of corrosion of the iron nails?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg"
+        "q3_stem_0.jpg",
+        "q3_stem_1.jpg",
+        "q3_stem_2.jpg"
       ],
       "options": [
         {
@@ -296,30 +296,30 @@
       "score": 1.0,
       "question_text": "Which of the following compounds would be formed when bromoethene reacts with chlorine in a suitable organic solvent?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q8_stem_0.jpg",
+        "q8_stem_1.jpg",
+        "q8_stem_2.jpg",
+        "q8_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q8_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q8_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q8_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q8_stem_3.jpg]",
           "image": null
         }
       ],
@@ -414,9 +414,9 @@
       "subject": "Chemistry",
       "topics": [],
       "score": 1.0,
-      "question_text": "The diagram below shows a set-up in which silver is being plated on a spoon:\n[IMG:0.jpg]\n\nWhich of the following statements concerning the above set-up is correct?",
+      "question_text": "The diagram below shows a set-up in which silver is being plated on a spoon:\n[IMG:q11_stem_0.jpg]\n\nWhich of the following statements concerning the above set-up is correct?",
       "question_images": [
-        "0.jpg"
+        "q11_stem_0.jpg"
       ],
       "options": [
         {
@@ -455,9 +455,9 @@
         "Topic 8: Chemical Reactions and Energy"
       ],
       "score": 1.0,
-      "question_text": "In an experiment, standard HCl(aq) was added from a burette to a known volume of NaOH(aq) placed in an expanded polystyrene cup. The graph below shows the temperatures of the mixture in the cup during the process:\n[IMG:1.jpg]\nWhat is the greatest temperature rise of the mixture in the cup as estimated from the graph above?",
+      "question_text": "In an experiment, standard HCl(aq) was added from a burette to a known volume of NaOH(aq) placed in an expanded polystyrene cup. The graph below shows the temperatures of the mixture in the cup during the process:\n[IMG:q12_stem_0.jpg]\nWhat is the greatest temperature rise of the mixture in the cup as estimated from the graph above?",
       "question_images": [
-        "1.jpg"
+        "q12_stem_0.jpg"
       ],
       "options": [
         {
@@ -535,9 +535,9 @@
         "Topic 2: Microscopic World I"
       ],
       "score": 1.0,
-      "question_text": "As shown in the diagram below, the glowing splint relights when solid Z is heated.\n[IMG:0.jpg]\n\nWhich of the following chemicals may Z be?",
+      "question_text": "As shown in the diagram below, the glowing splint relights when solid Z is heated.\n[IMG:q14_stem_0.jpg]\n\nWhich of the following chemicals may Z be?",
       "question_images": [
-        "0.jpg"
+        "q14_stem_0.jpg"
       ],
       "options": [
         {
@@ -576,11 +576,11 @@
         "Topic 1: Planet Earth"
       ],
       "score": 1.0,
-      "question_text": "Which of the following hazard warning labels should be displayed on both the reagent bottle storing concentrated sulphuric acid and the reagent bottle storing concentrated hydrochloric acid?\n\n(1) [IMG:1.jpg]\n\n(2) [IMG:2.jpg]\n\n(3) [IMG:3.jpg]",
+      "question_text": "Which of the following hazard warning labels should be displayed on both the reagent bottle storing concentrated sulphuric acid and the reagent bottle storing concentrated hydrochloric acid?\n\n(1) [IMG:q15_stem_0.jpg]\n\n(2) [IMG:q15_stem_1.jpg]\n\n(3) [IMG:q15_stem_2.jpg]",
       "question_images": [
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q15_stem_0.jpg",
+        "q15_stem_1.jpg",
+        "q15_stem_2.jpg"
       ],
       "options": [
         {
@@ -736,9 +736,9 @@
         "Topic 4: Acids and Bases"
       ],
       "score": 1.0,
-      "question_text": "The set-up of an experiment is shown below. At room temperature, the system initially contains  \\( 40 \\, cm^{3} \\)  of  \\( \\mathrm{N}_{2}(\\mathrm{~g}) \\) ,  \\( 23 \\, cm^{3} \\)  of  \\( \\mathrm{O}_{2}(\\mathrm{~g}) \\)  and  \\( 10 \\, cm^{3} \\)  of  \\( \\mathrm{He}(\\mathrm{g}) \\) .\n[IMG:0.jpg]\nThe plungers of the gas syringes are moved to and fro until there is no further change in the system. The system is then allowed to cool to room temperature. Which of the following statements concerning the experiment are correct?\n\n(1) Some copper powder would change to a black substance.\n(2) The total volume of the gases in the system would decrease by  \\( 25 \\, cm^{3} \\) .\n(3) The same change in total volume of the gases would be observed if excess copper powder is replaced with excess iron powder.",
+      "question_text": "The set-up of an experiment is shown below. At room temperature, the system initially contains  \\( 40 \\, cm^{3} \\)  of  \\( \\mathrm{N}_{2}(\\mathrm{~g}) \\) ,  \\( 23 \\, cm^{3} \\)  of  \\( \\mathrm{O}_{2}(\\mathrm{~g}) \\)  and  \\( 10 \\, cm^{3} \\)  of  \\( \\mathrm{He}(\\mathrm{g}) \\) .\n[IMG:q19_stem_0.jpg]\nThe plungers of the gas syringes are moved to and fro until there is no further change in the system. The system is then allowed to cool to room temperature. Which of the following statements concerning the experiment are correct?\n\n(1) Some copper powder would change to a black substance.\n(2) The total volume of the gases in the system would decrease by  \\( 25 \\, cm^{3} \\) .\n(3) The same change in total volume of the gases would be observed if excess copper powder is replaced with excess iron powder.",
       "question_images": [
-        "0.jpg"
+        "q19_stem_0.jpg"
       ],
       "options": [
         {
@@ -777,9 +777,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "The diagram below shows the set-up of an experiment:\n[IMG:1.jpg]\n\nWhich of the following methods may light up the light bulb?\n\n(1) heating the sodium bromide powder until molten\n(2) adding deionised water to the sodium bromide powder\n(3) replacing the sodium bromide powder with bromine liquid",
+      "question_text": "The diagram below shows the set-up of an experiment:\n[IMG:q20_stem_0.jpg]\n\nWhich of the following methods may light up the light bulb?\n\n(1) heating the sodium bromide powder until molten\n(2) adding deionised water to the sodium bromide powder\n(3) replacing the sodium bromide powder with bromine liquid",
       "question_images": [
-        "1.jpg"
+        "q20_stem_0.jpg"
       ],
       "options": [
         {
@@ -1132,34 +1132,34 @@
       "score": 1.0,
       "question_text": "In which of the following options are molecule Y and molecule Z identical?\n\nMolecule Y  |  Molecule Z\n",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg",
-        "4.jpg",
-        "5.jpg",
-        "6.jpg",
-        "7.jpg"
+        "q29_stem_0.jpg",
+        "q29_stem_1.jpg",
+        "q29_stem_2.jpg",
+        "q29_stem_3.jpg",
+        "q29_stem_4.jpg",
+        "q29_stem_5.jpg",
+        "q29_stem_6.jpg",
+        "q29_stem_7.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg] | [IMG:1.jpg]",
+          "text": "[IMG:q29_stem_0.jpg] | [IMG:q29_stem_1.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:2.jpg] | [IMG:3.jpg]",
+          "text": "[IMG:q29_stem_2.jpg] | [IMG:q29_stem_3.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:4.jpg] | [IMG:5.jpg]",
+          "text": "[IMG:q29_stem_4.jpg] | [IMG:q29_stem_5.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:6.jpg] | [IMG:7.jpg]",
+          "text": "[IMG:q29_stem_6.jpg] | [IMG:q29_stem_7.jpg]",
           "image": null
         }
       ],
@@ -1184,22 +1184,22 @@
         {
           "label": "A",
           "text": null,
-          "image": "0.jpg"
+          "image": "q30_optA.jpg"
         },
         {
           "label": "B",
           "text": null,
-          "image": "1.jpg"
+          "image": "q30_optB.jpg"
         },
         {
           "label": "C",
           "text": null,
-          "image": "2.jpg"
+          "image": "q30_optC.jpg"
         },
         {
           "label": "D",
           "text": null,
-          "image": "3.jpg"
+          "image": "q30_optD.jpg"
         }
       ],
       "answer": "C",
@@ -1295,9 +1295,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "A sunblock cream contains the compound below as the active ingredient:\n\n[IMG:0.jpg]\n\nWhich of the following reagents can react with this compound?\n\n(1) NaOH(aq)\n(2)  \\( PCl_{3}(l) \\)\n(3) acidified  \\( KMnO_{4}(aq) \\)",
+      "question_text": "A sunblock cream contains the compound below as the active ingredient:\n\n[IMG:q33_stem_0.jpg]\n\nWhich of the following reagents can react with this compound?\n\n(1) NaOH(aq)\n(2)  \\( PCl_{3}(l) \\)\n(3) acidified  \\( KMnO_{4}(aq) \\)",
       "question_images": [
-        "0.jpg"
+        "q33_stem_0.jpg"
       ],
       "options": [
         {
@@ -1336,9 +1336,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "The structure of a detergent is shown below:\n\n[IMG:1.jpg]\n\nWhich of the following statements concerning the detergent are correct?\n\n(1) It has a cleaning function in hard water.\n(2) Vigorous shaking it with oil and water can form a stable emulsion\n(3) It can be formed by reacting a certain vegetable oil with NaOH(aq)",
+      "question_text": "The structure of a detergent is shown below:\n\n[IMG:q34_stem_0.jpg]\n\nWhich of the following statements concerning the detergent are correct?\n\n(1) It has a cleaning function in hard water.\n(2) Vigorous shaking it with oil and water can form a stable emulsion\n(3) It can be formed by reacting a certain vegetable oil with NaOH(aq)",
       "question_images": [
-        "1.jpg"
+        "q34_stem_0.jpg"
       ],
       "options": [
         {

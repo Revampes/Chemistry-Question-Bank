@@ -61,22 +61,22 @@
       "options": [
         {
           "label": "A",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q2_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q2_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q2_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:4.jpg]",
+          "text": "[IMG:q2_stem_3.jpg]",
           "image": null
         }
       ],
@@ -134,9 +134,9 @@
         "Topic 3: Metals"
       ],
       "score": 1.0,
-      "question_text": "Consider the following experimental set-up :\n[IMG:0.jpg]\n\nWhich of the following would NOT be X?",
+      "question_text": "Consider the following experimental set-up :\n[IMG:q4_stem_0.jpg]\n\nWhich of the following would NOT be X?",
       "question_images": [
-        "0.jpg"
+        "q4_stem_0.jpg"
       ],
       "options": [
         {
@@ -253,9 +253,9 @@
         "Topic 4: Acids and Bases"
       ],
       "score": 1.0,
-      "question_text": "Consider the following experimental set-up :\n[IMG:0.jpg]\nA colourless gas is given out when water is dropped to the mixture. Which of the following statements is correct?",
+      "question_text": "Consider the following experimental set-up :\n[IMG:q7_stem_0.jpg]\nA colourless gas is given out when water is dropped to the mixture. Which of the following statements is correct?",
       "question_images": [
-        "0.jpg"
+        "q7_stem_0.jpg"
       ],
       "options": [
         {
@@ -450,9 +450,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "The diagram below shows the set-up used in an electroplating experiment involving four iron rods :\n[IMG:0.jpg]\nOn which of the following iron rods would a metal be plated?",
+      "question_text": "The diagram below shows the set-up used in an electroplating experiment involving four iron rods :\n[IMG:q12_stem_0.jpg]\nOn which of the following iron rods would a metal be plated?",
       "question_images": [
-        "0.jpg"
+        "q12_stem_0.jpg"
       ],
       "options": [
         {
@@ -491,9 +491,9 @@
         "Topic 7: Redox Reactions, Chemical Cells and Electrolysis"
       ],
       "score": 1.0,
-      "question_text": "Gas X is bubbled steadily into solution Y as shown in the diagram below :\n[IMG:1.jpg]\nIn which of the following combinations would NOT have a visible change in solution Y?\ngas X    |    solution Y",
+      "question_text": "Gas X is bubbled steadily into solution Y as shown in the diagram below :\n[IMG:q13_stem_0.jpg]\nIn which of the following combinations would NOT have a visible change in solution Y?\ngas X    |    solution Y",
       "question_images": [
-        "1.jpg"
+        "q13_stem_0.jpg"
       ],
       "options": [
         {
@@ -727,9 +727,9 @@
         "Topic 1: Planet Earth"
       ],
       "score": 1.0,
-      "question_text": "The hazard warning label below is displayed on a bottle containing chemical Z :\n[IMG:0.jpg]\n\nWhich of the following chemicals may Z be?\n\n(1) sodium\n(2) trichloromethane\n(3) concentrated aqueous ammonia",
+      "question_text": "The hazard warning label below is displayed on a bottle containing chemical Z :\n[IMG:q19_stem_0.jpg]\n\nWhich of the following chemicals may Z be?\n\n(1) sodium\n(2) trichloromethane\n(3) concentrated aqueous ammonia",
       "question_images": [
-        "0.jpg"
+        "q19_stem_0.jpg"
       ],
       "options": [
         {
@@ -966,30 +966,30 @@
       "score": 1.0,
       "question_text": "In an experiment, 0.03 mol of Mg(s) is allowed to react with 20.0 cm \\( ^{3} \\)  of 1.0 M HCl(aq). Which of the following graphs best represents the results of the experiment?",
       "question_images": [
-        "0.jpg",
-        "1.jpg",
-        "2.jpg",
-        "3.jpg"
+        "q25_stem_0.jpg",
+        "q25_stem_1.jpg",
+        "q25_stem_2.jpg",
+        "q25_stem_3.jpg"
       ],
       "options": [
         {
           "label": "A",
-          "text": "[IMG:0.jpg]",
+          "text": "[IMG:q25_stem_0.jpg]",
           "image": null
         },
         {
           "label": "B",
-          "text": "[IMG:1.jpg]",
+          "text": "[IMG:q25_stem_1.jpg]",
           "image": null
         },
         {
           "label": "C",
-          "text": "[IMG:2.jpg]",
+          "text": "[IMG:q25_stem_2.jpg]",
           "image": null
         },
         {
           "label": "D",
-          "text": "[IMG:3.jpg]",
+          "text": "[IMG:q25_stem_3.jpg]",
           "image": null
         }
       ],
@@ -1203,7 +1203,7 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Which of the following statements concerning nylon-6,6 is / are correct?\n\n(1) It can be used to make ropes.\n(2) The polymerisation in forming it is a hydrolysis process.\n(3) Its repeating unit is [IMG:0.jpg]",
+      "question_text": "Which of the following statements concerning nylon-6,6 is / are correct?\n\n(1) It can be used to make ropes.\n(2) The polymerisation in forming it is a hydrolysis process.\n(3) Its repeating unit is [IMG:q31_stem_0.jpg]",
       "question_images": [],
       "options": [
         {
@@ -1242,9 +1242,9 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "Aspartame is an artificial sweetener. The structure of it is shown below :\n[IMG:0.jpg]\n\nWhich of the following statements concerning an aspartame molecule is / are correct?\n\n(1) It has two ester groups.\n(2) It has two chiral centres.\n(3) It has two amide groups.",
+      "question_text": "Aspartame is an artificial sweetener. The structure of it is shown below :\n[IMG:q32_stem_0.jpg]\n\nWhich of the following statements concerning an aspartame molecule is / are correct?\n\n(1) It has two ester groups.\n(2) It has two chiral centres.\n(3) It has two amide groups.",
       "question_images": [
-        "0.jpg"
+        "q32_stem_0.jpg"
       ],
       "options": [
         {

@@ -57,7 +57,12 @@
       ],
       "score": 1.0,
       "question_text": "Which of the following is the electron diagram (only electrons in the outermost shells are shown) of lithium sulphide?",
-      "question_images": [],
+      "question_images": [
+        "q2_stem_0.jpg",
+        "q2_stem_1.jpg",
+        "q2_stem_2.jpg",
+        "q2_stem_3.jpg"
+      ],
       "options": [
         {
           "label": "A",
@@ -1204,7 +1209,9 @@
       ],
       "score": 1.0,
       "question_text": "Which of the following statements concerning nylon-6,6 is / are correct?\n\n(1) It can be used to make ropes.\n(2) The polymerisation in forming it is a hydrolysis process.\n(3) Its repeating unit is [IMG:q31_stem_0.jpg]",
-      "question_images": [],
+      "question_images": [
+        "q31_stem_0.jpg"
+      ],
       "options": [
         {
           "label": "A",

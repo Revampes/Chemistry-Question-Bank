@@ -296,7 +296,8 @@
       "question_text": "Consider two compounds with their structures shown below :\n[IMG:q8_stem_0.jpg]  [IMG:q8_stem_1.jpg]  [IMG:q8_stem_2.jpg]\n\nWhich of the following statements is correct?",
       "question_images": [
         "q8_stem_0.jpg",
-        "q8_stem_1.jpg"
+        "q8_stem_1.jpg",
+        "q8_stem_2.jpg"
       ],
       "options": [
         {
@@ -1169,7 +1170,9 @@
       ],
       "score": 1.0,
       "question_text": "Consider the information shown in the table below :\n[IMG:q30_stem_0.jpg]\n\nWhich of the following liquids have identical boiling point?",
-      "question_images": [],
+      "question_images": [
+        "q30_stem_0.jpg"
+      ],
       "options": [
         {
           "label": "A",

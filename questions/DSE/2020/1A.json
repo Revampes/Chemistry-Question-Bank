@@ -373,7 +373,10 @@
       ],
       "score": 1.0,
       "question_text": "Refer to the standard enthalpy changes of combustion below :\n[IMG:q10_stem_0.jpg]\n\nWhat is the standard enthalpy change of the following reaction ?\n[IMG:q10_stem_1.jpg]",
-      "question_images": [],
+      "question_images": [
+        "q10_stem_0.jpg",
+        "q10_stem_1.jpg"
+      ],
       "options": [
         {
           "label": "A",

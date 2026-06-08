@@ -1052,7 +1052,8 @@
       "score": 1.0,
       "question_text": "Direction: Questions 27 and 28 refer to the following set-up.\n[IMG:q27_stem_0.jpg]\nA(aq) and B(aq) react to form a turbid mixture. Three trials of an experiment were performed to study the rate of the reaction. In each trial, A(aq) was mixed with  \\( H_{2}O(l) \\)  in the beaker. After that, B(aq) was added to the mixture, and immediately started to measure the time needed for the cross to become invisible when viewed from above. The table below shows the relevant data.\n\n[IMG:q27_stem_1.jpg]\n\nWhich of the following statements concerning the rate of the reaction is correct?",
       "question_images": [
-        "q27_stem_0.jpg"
+        "q27_stem_0.jpg",
+        "q27_stem_1.jpg"
       ],
       "options": [
         {

@@ -1131,6 +1131,7 @@
       "score": 1.0,
       "question_text": "The structure of an organic compound is shown below :\n[IMG:q29_stem_0.jpg]\n\nWhen it is heated with excess NaOH(aq), followed by the addition of excess HCl(aq), a major organic product Z is formed. Which of the following is Z?",
       "question_images": [
+        "q13_stem_0.jpg",
         "q29_stem_1.jpg",
         "q29_stem_2.jpg",
         "q29_stem_3.jpg",

@@ -1129,7 +1129,7 @@
         "Topic 11: Chemistry of Carbon Compounds"
       ],
       "score": 1.0,
-      "question_text": "When it is heated with excess NaOH(aq), followed by the addition of excess HCl(aq), a major organic product Z is formed. Which of the following is Z?",
+      "question_text": "The structure of an organic compound is shown below :\n[IMG:q29_stem_0.jpg]\n\nWhen it is heated with excess NaOH(aq), followed by the addition of excess HCl(aq), a major organic product Z is formed. Which of the following is Z?",
       "question_images": [
         "q29_stem_1.jpg",
         "q29_stem_2.jpg",
@@ -1139,22 +1139,22 @@
       "options": [
         {
           "label": "A",
-          "text": "[IMG:q29_stem_0.jpg]",
-          "image": null
-        },
-        {
-          "label": "B",
           "text": "[IMG:q29_stem_1.jpg]",
           "image": null
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "[IMG:q29_stem_2.jpg]",
           "image": null
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "[IMG:q29_stem_3.jpg]",
+          "image": null
+        },
+        {
+          "label": "D",
+          "text": "[IMG:q29_stem_4.jpg]",
           "image": null
         }
       ],

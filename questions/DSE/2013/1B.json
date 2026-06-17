@@ -1086,7 +1086,7 @@
           "marks": 2.0,
           "is_answerable": false,
           "answer_type": "none",
-          "answer": "(i)\n\\[ 3\\ NaOH+\\begin{array}{c}H_{2}C-OCOC_{17}H_{33}\\\\ H C-OCOC_{17}H_{33}\\\\ H_{2}C-OCOC_{17}H_{33}\\end{array}\\xrightarrow{heat}\\begin{array}{c}H_{2}C-OH\\\\ H C-OH\\\\ H_{2}C-OH\\end{array}+3C_{17}H_{33}COO^{-}Na^{+} \\]\n(ii)\n\\[  CH_{3}O-C-C_{17}H_{33}\\quad/C_{17}H_{33}COOCH_{3} \\quad 1 \\]",
+          "answer": "",
           "preset_content": "",
           "children": [
             {

@@ -264,8 +264,8 @@
               "children": [
                 {
                   "id": "50dba1dd-5142-40d5-99ba-6a9cc3595e73",
-                  "label": "a",
-                  "full_label": "3(c)(ii)(a)",
+                  "label": "1",
+                  "full_label": "3(c)(ii)(1)",
                   "level": 3,
                   "question_text": "State the expected observation.",
                   "question_images": [],
@@ -278,8 +278,8 @@
                 },
                 {
                   "id": "f6536798-3f8f-4a0c-9623-1a28c2f21b16",
-                  "label": "b",
-                  "full_label": "3(c)(ii)(b)",
+                  "label": "2",
+                  "full_label": "3(c)(ii)(2)",
                   "level": 3,
                   "question_text": "Draw the structure of the product formed from the reaction between propene and \\(Br_{2}\\).",
                   "question_images": [],
